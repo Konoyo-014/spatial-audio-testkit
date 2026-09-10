@@ -1,0 +1,41 @@
+Original generator, verification/evaluation scripts, documentation and synthetic
+source signals in this package are released under the MIT License.
+
+Copyright (c) 2026 Spatial Audio Testkit contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+THIRD-PARTY HRTF DATA AND DERIVED BINAURAL SIGNALS
+
+The MIT KEMAR impulse responses, their documentation, the resampled HRIRs and
+binaural signals derived from them remain subject to the original attribution
+condition. The following statement is reproduced from the authors' README:
+
+"This data is Copyright 1994 by the MIT Media Laboratory. It is
+provided free with no restrictions on use, provided the authors
+are cited when the data is used in any research or commercial
+application."
+
+Bill Gardner and Keith Martin, MIT Media Lab Machine Listening Group.
+"HRTF Measurements of a KEMAR Dummy-Head Microphone", 1994.
+https://sound.media.mit.edu/resources/KEMAR.html
+https://sound.media.mit.edu/resources/KEMAR/README
+
+The copied original README, FAQ, technical documentation and source web page
+are in resources/. This package does not relicense those materials.
