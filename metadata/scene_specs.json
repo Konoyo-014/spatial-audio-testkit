@@ -1,0 +1,2468 @@
+[
+  {
+    "id": "s0001",
+    "name": "水平静止声源 -180°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -180,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0002",
+    "name": "水平静止声源 -165°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -165,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0003",
+    "name": "水平静止声源 -150°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -150,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0004",
+    "name": "水平静止声源 -135°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -135,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0005",
+    "name": "水平静止声源 -120°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -120,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0006",
+    "name": "水平静止声源 -105°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -105,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0007",
+    "name": "水平静止声源 -90°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0008",
+    "name": "水平静止声源 -75°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -75,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0009",
+    "name": "水平静止声源 -60°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -60,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0010",
+    "name": "水平静止声源 -45°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0011",
+    "name": "水平静止声源 -30°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0012",
+    "name": "水平静止声源 -15°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -15,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0013",
+    "name": "水平静止声源 +0°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0014",
+    "name": "水平静止声源 +15°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 15,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0015",
+    "name": "水平静止声源 +30°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0016",
+    "name": "水平静止声源 +45°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0017",
+    "name": "水平静止声源 +60°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 60,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0018",
+    "name": "水平静止声源 +75°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 75,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0019",
+    "name": "水平静止声源 +90°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0020",
+    "name": "水平静止声源 +105°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 105,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0021",
+    "name": "水平静止声源 +120°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 120,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0022",
+    "name": "水平静止声源 +135°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 135,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0023",
+    "name": "水平静止声源 +150°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 150,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0024",
+    "name": "水平静止声源 +165°",
+    "family": "static_azimuth",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 165,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0025",
+    "name": "方位 +0°，仰角 -30°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0026",
+    "name": "方位 +90°，仰角 -30°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 90,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0027",
+    "name": "方位 +180°，仰角 -30°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 180,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0028",
+    "name": "方位 -90°，仰角 -30°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -90,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0029",
+    "name": "方位 +0°，仰角 +30°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0030",
+    "name": "方位 +90°，仰角 +30°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 90,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0031",
+    "name": "方位 +180°，仰角 +30°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 180,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0032",
+    "name": "方位 -90°，仰角 +30°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -90,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0033",
+    "name": "方位 +0°，仰角 +60°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 60,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0034",
+    "name": "方位 +90°，仰角 +60°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 90,
+        "elevation_deg": 60,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0035",
+    "name": "方位 +180°，仰角 +60°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 180,
+        "elevation_deg": 60,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0036",
+    "name": "方位 -90°，仰角 +60°",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -90,
+        "elevation_deg": 60,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0037",
+    "name": "正上方",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 90,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0038",
+    "name": "正下方，FOA 专用",
+    "family": "static_elevation",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": -90,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa"
+    ]
+  },
+  {
+    "id": "s0039",
+    "name": "格式对照的共同原信号，方位 +30°、仰角 +20°",
+    "family": "format_reference",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 30,
+        "elevation_deg": 20,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0040",
+    "name": "125 Hz 窄带定位",
+    "family": "narrowband",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "tone",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "frequency_hz": 125
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0041",
+    "name": "500 Hz 窄带定位",
+    "family": "narrowband",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "tone",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "frequency_hz": 500
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0042",
+    "name": "1000 Hz 窄带定位",
+    "family": "narrowband",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "tone",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "frequency_hz": 1000
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0043",
+    "name": "4000 Hz 窄带定位",
+    "family": "narrowband",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "tone",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "frequency_hz": 4000
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0044",
+    "name": "8000 Hz 窄带定位",
+    "family": "narrowband",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "tone",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "frequency_hz": 8000
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0045",
+    "name": "40 Hz–18 kHz 对数扫频",
+    "family": "spectral",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "sweep",
+        "azimuth_deg": 30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0046",
+    "name": "宽带随机噪声",
+    "family": "spectral",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "white",
+        "azimuth_deg": -30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0047",
+    "name": "谐波与幅度调制声源",
+    "family": "spectral",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 60,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0048",
+    "name": "水平逆时针一周",
+    "family": "motion",
+    "duration_s": 8.5,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 8.25,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": [
+          [
+            0.25,
+            0,
+            0
+          ],
+          [
+            8.25,
+            360,
+            0
+          ]
+        ],
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0049",
+    "name": "水平顺时针一周",
+    "family": "motion",
+    "duration_s": 8.5,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 8.25,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": [
+          [
+            0.25,
+            0,
+            0
+          ],
+          [
+            8.25,
+            -360,
+            0
+          ]
+        ],
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0050",
+    "name": "右侧经过前方到左侧",
+    "family": "motion",
+    "duration_s": 8.5,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 8.25,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": [
+          [
+            0.25,
+            -90,
+            0
+          ],
+          [
+            8.25,
+            90,
+            0
+          ]
+        ],
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0051",
+    "name": "前方从低处升到高处",
+    "family": "motion",
+    "duration_s": 8.5,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 8.25,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": [
+          [
+            0.25,
+            0,
+            -30
+          ],
+          [
+            8.25,
+            0,
+            80
+          ]
+        ],
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0052",
+    "name": "跨越后方 ±180°",
+    "family": "motion",
+    "duration_s": 8.5,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 8.25,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": [
+          [
+            0.25,
+            150,
+            0
+          ],
+          [
+            8.25,
+            210,
+            0
+          ]
+        ],
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0053",
+    "name": "头向左转时，固定世界声源向右移动",
+    "family": "motion",
+    "duration_s": 8.5,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 8.25,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": [
+          [
+            0.25,
+            0,
+            0
+          ],
+          [
+            8.25,
+            -90,
+            0
+          ]
+        ],
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0054",
+    "name": "两个独立声源：左右",
+    "family": "multisource",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 70,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 21,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -70,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 22,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0055",
+    "name": "两个声源相向运动并交叉",
+    "family": "multisource",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 31,
+        "gain_db": 0,
+        "trajectory": [
+          [
+            0.25,
+            -80,
+            0
+          ],
+          [
+            5.75,
+            80,
+            0
+          ]
+        ],
+        "role": "source",
+        "frequency_hz": 220
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 32,
+        "gain_db": 0,
+        "trajectory": [
+          [
+            0.25,
+            80,
+            0
+          ],
+          [
+            5.75,
+            -80,
+            0
+          ]
+        ],
+        "role": "source",
+        "frequency_hz": 370
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0056",
+    "name": "三个方向、三个频带",
+    "family": "multisource",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "bandnoise",
+        "azimuth_deg": -70,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 40,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "band_hz": [
+          200,
+          700
+        ]
+      },
+      {
+        "kind": "bandnoise",
+        "azimuth_deg": 0,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 41,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "band_hz": [
+          1000,
+          2500
+        ]
+      },
+      {
+        "kind": "bandnoise",
+        "azimuth_deg": 80,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 42,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "band_hz": [
+          4000,
+          8000
+        ]
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0057",
+    "name": "双源角间隔 10°",
+    "family": "separation",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -5.0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 51,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 5.0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 52,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0058",
+    "name": "双源角间隔 30°",
+    "family": "separation",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -15.0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 51,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 15.0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 52,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0059",
+    "name": "双源角间隔 60°",
+    "family": "separation",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -30.0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 51,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 30.0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 52,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0060",
+    "name": "目标与干扰的源信号能量比 -10 dB",
+    "family": "interference",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 35,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 61,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -65,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 62,
+        "gain_db": 10,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "target_source_id": "a01",
+    "requested_source_sir_db": -10
+  },
+  {
+    "id": "s0061",
+    "name": "目标与干扰的源信号能量比 +0 dB",
+    "family": "interference",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 35,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 61,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -65,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 62,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "target_source_id": "a01",
+    "requested_source_sir_db": 0
+  },
+  {
+    "id": "s0062",
+    "name": "目标与干扰的源信号能量比 +10 dB",
+    "family": "interference",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 35,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 61,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -65,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 62,
+        "gain_db": -10,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "target_source_id": "a01",
+    "requested_source_sir_db": 10
+  },
+  {
+    "id": "s0063",
+    "name": "两个声源交替出现",
+    "family": "activity",
+    "duration_s": 6,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -60,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 71,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "gates_s": [
+          [
+            0.25,
+            1.5
+          ],
+          [
+            3,
+            4.3
+          ]
+        ]
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 60,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 5.75,
+        "seed": 72,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "gates_s": [
+          [
+            1.7,
+            2.8
+          ],
+          [
+            4.5,
+            5.75
+          ]
+        ]
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0064",
+    "name": "同向、同波形双源相加",
+    "family": "coherence",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 81,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 81,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "evaluation": "exclude_coherent_source_count"
+  },
+  {
+    "id": "s0065",
+    "name": "相反方向、同相波形",
+    "family": "coherence",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 81,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 81,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "evaluation": "exclude_coherent_source_count"
+  },
+  {
+    "id": "s0066",
+    "name": "相反方向、反相波形",
+    "family": "coherence",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 81,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 81,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source",
+        "polarity": -1
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "evaluation": "exclude_coherent_source_count"
+  },
+  {
+    "id": "s0067",
+    "name": "12 个方向的独立噪声，近似弥散场",
+    "family": "diffuse",
+    "duration_s": 4,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": -135,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 100,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -45,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 101,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 45,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 102,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 135,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 103,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -135,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 104,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -45,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 105,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 45,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 106,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 135,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 107,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 0,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 108,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 109,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": 180,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 110,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "pink",
+        "azimuth_deg": -90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 3.75,
+        "seed": 111,
+        "gain_db": -10.79181246047625,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "evaluation": "exclude_diffuse",
+    "note": "有限 12 方向，不是连续各向同性声场"
+  },
+  {
+    "id": "s0068",
+    "name": "直达声与离散反射，分量能量比 0 dB",
+    "family": "reflections",
+    "duration_s": 5,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 20,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": -65,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.017,
+        "linear_gain": 0.5773502691896258
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 100,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.031,
+        "linear_gain": 0.5773502691896258
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 175,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.053,
+        "linear_gain": 0.5773502691896258
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "direct_to_sum_reflection_component_energy_db": 0,
+    "note": "手工指定到达方向、延迟和增益；不对应某个房间，也不含晚期混响"
+  },
+  {
+    "id": "s0069",
+    "name": "直达声与离散反射，分量能量比 6 dB",
+    "family": "reflections",
+    "duration_s": 5,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 20,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": -65,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.017,
+        "linear_gain": 0.2893605842491095
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 100,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.031,
+        "linear_gain": 0.2893605842491095
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 175,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.053,
+        "linear_gain": 0.2893605842491095
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "direct_to_sum_reflection_component_energy_db": 6,
+    "note": "手工指定到达方向、延迟和增益；不对应某个房间，也不含晚期混响"
+  },
+  {
+    "id": "s0070",
+    "name": "直达声与离散反射，分量能量比 12 dB",
+    "family": "reflections",
+    "duration_s": 5,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 20,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": -65,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.017,
+        "linear_gain": 0.14502383074058248
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 100,
+        "elevation_deg": 30,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.031,
+        "linear_gain": 0.14502383074058248
+      },
+      {
+        "kind": "harmonic",
+        "azimuth_deg": 175,
+        "elevation_deg": -30,
+        "start_s": 0.25,
+        "end_s": 4.75,
+        "seed": 121,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "reflection",
+        "copy_from": 0,
+        "delay_s": 0.053,
+        "linear_gain": 0.14502383074058248
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "direct_to_sum_reflection_component_energy_db": 12,
+    "note": "手工指定到达方向、延迟和增益；不对应某个房间，也不含晚期混响"
+  },
+  {
+    "id": "s0071",
+    "name": "共同波形，相对电平 0 dB",
+    "family": "level",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 131,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "relative_level_db": 0
+  },
+  {
+    "id": "s0072",
+    "name": "共同波形，相对电平 -20 dB",
+    "family": "level",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 131,
+        "gain_db": -20,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "relative_level_db": -20
+  },
+  {
+    "id": "s0073",
+    "name": "共同波形，相对电平 -40 dB",
+    "family": "level",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 131,
+        "gain_db": -40,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "relative_level_db": -40
+  },
+  {
+    "id": "s0074",
+    "name": "共同波形，相对电平 -60 dB",
+    "family": "level",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 45,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 131,
+        "gain_db": -60,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "relative_level_db": -60
+  },
+  {
+    "id": "s0075",
+    "name": "幅度随 1/r 变化：r=1",
+    "family": "amplitude_distance_proxy",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 141,
+        "gain_db": -0.0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "evaluation": "exclude_physical_distance",
+    "relative_distance_parameter": 1,
+    "note": "只有 1/r 幅度变化；没有距离相关 HRTF、传播延迟、近场或空气吸收"
+  },
+  {
+    "id": "s0076",
+    "name": "幅度随 1/r 变化：r=2",
+    "family": "amplitude_distance_proxy",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 141,
+        "gain_db": -6.020599913279624,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "evaluation": "exclude_physical_distance",
+    "relative_distance_parameter": 2,
+    "note": "只有 1/r 幅度变化；没有距离相关 HRTF、传播延迟、近场或空气吸收"
+  },
+  {
+    "id": "s0077",
+    "name": "幅度随 1/r 变化：r=4",
+    "family": "amplitude_distance_proxy",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "pink",
+        "azimuth_deg": 30,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 141,
+        "gain_db": -12.041199826559248,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "evaluation": "exclude_physical_distance",
+    "relative_distance_parameter": 4,
+    "note": "只有 1/r 幅度变化；没有距离相关 HRTF、传播延迟、近场或空气吸收"
+  },
+  {
+    "id": "s0078",
+    "name": "精确事件时刻的单采样脉冲",
+    "family": "timing",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "clicks",
+        "azimuth_deg": 90,
+        "elevation_deg": 0,
+        "start_s": 0.25,
+        "end_s": 2.75,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0079",
+    "name": "延迟出现并停止的声源",
+    "family": "activity",
+    "duration_s": 3.0,
+    "sources": [
+      {
+        "kind": "harmonic",
+        "azimuth_deg": -45,
+        "elevation_deg": 0,
+        "start_s": 1.0,
+        "end_s": 2.0,
+        "seed": 11,
+        "gain_db": 0,
+        "trajectory": null,
+        "role": "source"
+      }
+    ],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ]
+  },
+  {
+    "id": "s0080",
+    "name": "数字静音",
+    "family": "silence",
+    "duration_s": 3.0,
+    "sources": [],
+    "representations": [
+      "foa",
+      "stereo",
+      "binaural"
+    ],
+    "evaluation": "silence_false_positive"
+  }
+]

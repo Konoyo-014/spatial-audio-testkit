@@ -1,0 +1,1455 @@
+{
+  "wav_count": 290,
+  "files": [
+    {
+      "original": "audio/foa/s0001.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/001_FOA_粉红噪声_正后方_方位+180度_仰角0度_48kHz_24位.wav",
+      "sha256": "34493badf74b631d633db5550b115e7ebc90b200a5a6ee911a50e233bfe7c907"
+    },
+    {
+      "original": "audio/stereo/s0001.wav",
+      "chinese_path": "02_立体声/001_立体声_粉红噪声_正后方_方位+180度_仰角0度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0001.wav",
+      "chinese_path": "03_双耳_HRTF/001_双耳_粉红噪声_正后方_方位+180度_仰角0度_48kHz_24位.wav",
+      "sha256": "f0fd6f4b03b9fc0247a7cb7c6dd694ae33d760d6b8ce43a44065363c7d313b19"
+    },
+    {
+      "original": "audio/foa/s0002.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/002_FOA_粉红噪声_右后方_方位-165度_仰角0度_48kHz_24位.wav",
+      "sha256": "17512c2d5f6bd3b6f0ee21989477a02e317c4c4ae2c96fe390d7f1baf0df75a5"
+    },
+    {
+      "original": "audio/stereo/s0002.wav",
+      "chinese_path": "02_立体声/002_立体声_粉红噪声_右后方_方位-165度_仰角0度_48kHz_24位.wav",
+      "sha256": "d9d1efc0473d539a61a764137ebf4fb405ab8af7dee29c5991a5e077c9db686a"
+    },
+    {
+      "original": "audio/binaural/s0002.wav",
+      "chinese_path": "03_双耳_HRTF/002_双耳_粉红噪声_右后方_方位-165度_仰角0度_48kHz_24位.wav",
+      "sha256": "b79ccddb797708c15e87a5fdcb9479322e61140cec3d1be4ef7d6155c20cb85e"
+    },
+    {
+      "original": "audio/foa/s0003.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/003_FOA_粉红噪声_右后方_方位-150度_仰角0度_48kHz_24位.wav",
+      "sha256": "ef280c341ef5ae3820ec810ea6f87764480a307bd3ef24084f9a615679e5914c"
+    },
+    {
+      "original": "audio/stereo/s0003.wav",
+      "chinese_path": "02_立体声/003_立体声_粉红噪声_右后方_方位-150度_仰角0度_48kHz_24位.wav",
+      "sha256": "82db1c940271ef70418895477c4c2f2a6e9ef305beb5fc8c93b6aff7781d0bcc"
+    },
+    {
+      "original": "audio/binaural/s0003.wav",
+      "chinese_path": "03_双耳_HRTF/003_双耳_粉红噪声_右后方_方位-150度_仰角0度_48kHz_24位.wav",
+      "sha256": "375baffd7ea3f4d1cb9ab99aa4dbe8a7ff3d53234e3fd4d90b8486b94b26f2ea"
+    },
+    {
+      "original": "audio/foa/s0004.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/004_FOA_粉红噪声_右后方_方位-135度_仰角0度_48kHz_24位.wav",
+      "sha256": "5d8249ab9231399624b31d836be8cb2247f428030594c0be5d5c1fc65ba5619f"
+    },
+    {
+      "original": "audio/stereo/s0004.wav",
+      "chinese_path": "02_立体声/004_立体声_粉红噪声_右后方_方位-135度_仰角0度_48kHz_24位.wav",
+      "sha256": "77a4e177d85f44cba8085841bf13017f41d45cbdb5cdd33db238c660abc0939e"
+    },
+    {
+      "original": "audio/binaural/s0004.wav",
+      "chinese_path": "03_双耳_HRTF/004_双耳_粉红噪声_右后方_方位-135度_仰角0度_48kHz_24位.wav",
+      "sha256": "385d2c9cf7972664d0e329b3955d8871cf47ac8f647782060dd2ae3f6179853c"
+    },
+    {
+      "original": "audio/foa/s0005.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/005_FOA_粉红噪声_右后方_方位-120度_仰角0度_48kHz_24位.wav",
+      "sha256": "c06139600406f822702757af38f90b0d44a0ae344aa5d7706c7cc19d0e099c57"
+    },
+    {
+      "original": "audio/stereo/s0005.wav",
+      "chinese_path": "02_立体声/005_立体声_粉红噪声_右后方_方位-120度_仰角0度_48kHz_24位.wav",
+      "sha256": "b79f690e47a9ca3c6a39a3fca680bce6f22a3b32174c66ebc1b50575d0aeb8a4"
+    },
+    {
+      "original": "audio/binaural/s0005.wav",
+      "chinese_path": "03_双耳_HRTF/005_双耳_粉红噪声_右后方_方位-120度_仰角0度_48kHz_24位.wav",
+      "sha256": "febc4ee8597aaa37c78e3dae0e602f4ab2687b3bde08bff9fb6631480cb143d5"
+    },
+    {
+      "original": "audio/foa/s0006.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/006_FOA_粉红噪声_右后方_方位-105度_仰角0度_48kHz_24位.wav",
+      "sha256": "17c7a8c94e13a698be087d07b6ec33e5543f89545b57a5d641b5ce37d4959e40"
+    },
+    {
+      "original": "audio/stereo/s0006.wav",
+      "chinese_path": "02_立体声/006_立体声_粉红噪声_右后方_方位-105度_仰角0度_48kHz_24位.wav",
+      "sha256": "937e759d21e2bf4c7a3f5e840487001e34537684c3f9810e41c457816b947f55"
+    },
+    {
+      "original": "audio/binaural/s0006.wav",
+      "chinese_path": "03_双耳_HRTF/006_双耳_粉红噪声_右后方_方位-105度_仰角0度_48kHz_24位.wav",
+      "sha256": "0e4e0f935fd8992c1af32354a482dcf4c1005b1e84f0252fb5e52bd8f71af4ad"
+    },
+    {
+      "original": "audio/foa/s0007.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/007_FOA_粉红噪声_正右方_方位-90度_仰角0度_48kHz_24位.wav",
+      "sha256": "c5b9e0a1d8ee5cf188af40dd325844bb1a3c6368d232c4a425d45a4ed7be787d"
+    },
+    {
+      "original": "audio/stereo/s0007.wav",
+      "chinese_path": "02_立体声/007_立体声_粉红噪声_正右方_方位-90度_仰角0度_48kHz_24位.wav",
+      "sha256": "7fb7d5cd5e38f38ca0804680faa1d5e30c03fb5556eaaa64c8ac4c28dbe2a592"
+    },
+    {
+      "original": "audio/binaural/s0007.wav",
+      "chinese_path": "03_双耳_HRTF/007_双耳_粉红噪声_正右方_方位-90度_仰角0度_48kHz_24位.wav",
+      "sha256": "d4a762cba64dd97c5c4dda95e632352d0cba99872b4612176ba1983ac1346a20"
+    },
+    {
+      "original": "audio/foa_decoded_binaural/s0007.wav",
+      "chinese_path": "06_FOA解码为双耳/007_FOA解码为双耳_粉红噪声_正右方_方位-90度_仰角0度_48kHz_24位.wav",
+      "sha256": "c4fee557cf0b025e0134c4bd6018c1428219ced24c0702b7c1acde1ce090881f"
+    },
+    {
+      "original": "audio/foa/s0008.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/008_FOA_粉红噪声_右前方_方位-75度_仰角0度_48kHz_24位.wav",
+      "sha256": "5f70ceba3fc0a1e5cdb14905acfa3f75a733c3554a2a94a16d0027a2ac54127f"
+    },
+    {
+      "original": "audio/stereo/s0008.wav",
+      "chinese_path": "02_立体声/008_立体声_粉红噪声_右前方_方位-75度_仰角0度_48kHz_24位.wav",
+      "sha256": "937e759d21e2bf4c7a3f5e840487001e34537684c3f9810e41c457816b947f55"
+    },
+    {
+      "original": "audio/binaural/s0008.wav",
+      "chinese_path": "03_双耳_HRTF/008_双耳_粉红噪声_右前方_方位-75度_仰角0度_48kHz_24位.wav",
+      "sha256": "8a3a03fb58d7791d247ae032b327658a7b125ba61fb93e9947fb5a44195d73bd"
+    },
+    {
+      "original": "audio/foa/s0009.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/009_FOA_粉红噪声_右前方_方位-60度_仰角0度_48kHz_24位.wav",
+      "sha256": "32b281db31dfa1d1df0521aaf1443bae5db40318f7a55e607b3d2db1f76a9a49"
+    },
+    {
+      "original": "audio/stereo/s0009.wav",
+      "chinese_path": "02_立体声/009_立体声_粉红噪声_右前方_方位-60度_仰角0度_48kHz_24位.wav",
+      "sha256": "b79f690e47a9ca3c6a39a3fca680bce6f22a3b32174c66ebc1b50575d0aeb8a4"
+    },
+    {
+      "original": "audio/binaural/s0009.wav",
+      "chinese_path": "03_双耳_HRTF/009_双耳_粉红噪声_右前方_方位-60度_仰角0度_48kHz_24位.wav",
+      "sha256": "0f6f80e6090989cf8556d9d035735cb8cab016de3a48e13c761e42311bab0b2d"
+    },
+    {
+      "original": "audio/foa/s0010.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/010_FOA_粉红噪声_右前方_方位-45度_仰角0度_48kHz_24位.wav",
+      "sha256": "d14ecae8b969709fb9fd490f4c637e38884c8d1a7d633f5fd595c703c134f427"
+    },
+    {
+      "original": "audio/stereo/s0010.wav",
+      "chinese_path": "02_立体声/010_立体声_粉红噪声_右前方_方位-45度_仰角0度_48kHz_24位.wav",
+      "sha256": "77a4e177d85f44cba8085841bf13017f41d45cbdb5cdd33db238c660abc0939e"
+    },
+    {
+      "original": "audio/binaural/s0010.wav",
+      "chinese_path": "03_双耳_HRTF/010_双耳_粉红噪声_右前方_方位-45度_仰角0度_48kHz_24位.wav",
+      "sha256": "5b5a36917ba823b88241cd3d069058e61b27e15be6d87077ed142421afea1a96"
+    },
+    {
+      "original": "audio/foa/s0011.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/011_FOA_粉红噪声_右前方_方位-30度_仰角0度_48kHz_24位.wav",
+      "sha256": "89589ad532cafc6e47b22765e2a7d789f569052fd63fb0efef000cb0198a95e9"
+    },
+    {
+      "original": "audio/stereo/s0011.wav",
+      "chinese_path": "02_立体声/011_立体声_粉红噪声_右前方_方位-30度_仰角0度_48kHz_24位.wav",
+      "sha256": "82db1c940271ef70418895477c4c2f2a6e9ef305beb5fc8c93b6aff7781d0bcc"
+    },
+    {
+      "original": "audio/binaural/s0011.wav",
+      "chinese_path": "03_双耳_HRTF/011_双耳_粉红噪声_右前方_方位-30度_仰角0度_48kHz_24位.wav",
+      "sha256": "f896bb831b87f8afcea78dbf1d2060023d37940e238cd820c63ed5b9cac76624"
+    },
+    {
+      "original": "audio/foa/s0012.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/012_FOA_粉红噪声_右前方_方位-15度_仰角0度_48kHz_24位.wav",
+      "sha256": "a4e637170669cd064964265b1d963d05a912003ddba864c3e4c13cae7df0e981"
+    },
+    {
+      "original": "audio/stereo/s0012.wav",
+      "chinese_path": "02_立体声/012_立体声_粉红噪声_右前方_方位-15度_仰角0度_48kHz_24位.wav",
+      "sha256": "d9d1efc0473d539a61a764137ebf4fb405ab8af7dee29c5991a5e077c9db686a"
+    },
+    {
+      "original": "audio/binaural/s0012.wav",
+      "chinese_path": "03_双耳_HRTF/012_双耳_粉红噪声_右前方_方位-15度_仰角0度_48kHz_24位.wav",
+      "sha256": "ce350b9455d88715a6de157425e29baf5c57e74d5067ac004b172210064085bc"
+    },
+    {
+      "original": "audio/foa/s0013.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/013_FOA_粉红噪声_正前方_方位0度_仰角0度_48kHz_24位.wav",
+      "sha256": "a46975f4804576323cb4e1f6e306c9f613bb2b15e596022e865de24bc70ef813"
+    },
+    {
+      "original": "audio/stereo/s0013.wav",
+      "chinese_path": "02_立体声/013_立体声_粉红噪声_正前方_方位0度_仰角0度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0013.wav",
+      "chinese_path": "03_双耳_HRTF/013_双耳_粉红噪声_正前方_方位0度_仰角0度_48kHz_24位.wav",
+      "sha256": "5730214a9ce91fa0c31014e5eae0ecf1b970a70aee2fd5423982132053e99f45"
+    },
+    {
+      "original": "audio/foa_decoded_binaural/s0013.wav",
+      "chinese_path": "06_FOA解码为双耳/013_FOA解码为双耳_粉红噪声_正前方_方位0度_仰角0度_48kHz_24位.wav",
+      "sha256": "6eba4fa07727c588e89ade09f55283a809d4af60696ee37c9b737c6787323c5e"
+    },
+    {
+      "original": "audio/foa/s0014.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/014_FOA_粉红噪声_左前方_方位+15度_仰角0度_48kHz_24位.wav",
+      "sha256": "8c162fd187ea213c02460a959946329b787be16cc108032a1f9bdd7a3253c750"
+    },
+    {
+      "original": "audio/stereo/s0014.wav",
+      "chinese_path": "02_立体声/014_立体声_粉红噪声_左前方_方位+15度_仰角0度_48kHz_24位.wav",
+      "sha256": "6e5dba06f0a0cb9e0e66071a9e558c195104b6a2799e2766e274a848c560ab59"
+    },
+    {
+      "original": "audio/binaural/s0014.wav",
+      "chinese_path": "03_双耳_HRTF/014_双耳_粉红噪声_左前方_方位+15度_仰角0度_48kHz_24位.wav",
+      "sha256": "bdadab8c01a47eed97b956bdc7751bea4b355f17e20f4528d62e42c69b65f5be"
+    },
+    {
+      "original": "audio/foa/s0015.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/015_FOA_粉红噪声_左前方_方位+30度_仰角0度_48kHz_24位.wav",
+      "sha256": "0ea127914dd592015d76753ac518340e0e6139193c1a766ac018e1b81ee0fcb5"
+    },
+    {
+      "original": "audio/stereo/s0015.wav",
+      "chinese_path": "02_立体声/015_立体声_粉红噪声_左前方_方位+30度_仰角0度_48kHz_24位.wav",
+      "sha256": "8d204251b46ee9e66b75652017a1ff86da54f06b61b3949b4a4a2073ebb75d15"
+    },
+    {
+      "original": "audio/binaural/s0015.wav",
+      "chinese_path": "03_双耳_HRTF/015_双耳_粉红噪声_左前方_方位+30度_仰角0度_48kHz_24位.wav",
+      "sha256": "bcb00261b1cf1324b571fa51407f94ec95a584faca7c80db7fb3ae9b8610686c"
+    },
+    {
+      "original": "audio/foa/s0016.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/016_FOA_粉红噪声_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "b04334c39b328fd08c01293394eb4d9d17a323beccba63a10d00d1d180c30aa5"
+    },
+    {
+      "original": "audio/stereo/s0016.wav",
+      "chinese_path": "02_立体声/016_立体声_粉红噪声_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "4eb2c92bae7c80d2d6b6d2f17d882a76367cf148f9761a3c9b5e8d51943f4c44"
+    },
+    {
+      "original": "audio/binaural/s0016.wav",
+      "chinese_path": "03_双耳_HRTF/016_双耳_粉红噪声_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "cfdc3f8c766c804ffd8d56f1ea7e9aa647353507a9089c61766e657bf3bb6999"
+    },
+    {
+      "original": "audio/foa/s0017.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/017_FOA_粉红噪声_左前方_方位+60度_仰角0度_48kHz_24位.wav",
+      "sha256": "80cb1fbb69d66f94092322821c79a77fd80cf1288e852470ab5ba9cbb8f0c9d8"
+    },
+    {
+      "original": "audio/stereo/s0017.wav",
+      "chinese_path": "02_立体声/017_立体声_粉红噪声_左前方_方位+60度_仰角0度_48kHz_24位.wav",
+      "sha256": "7a91c7e7bdec80cb08031fbbda691906ac77c18203be3445af1fdc22acb78728"
+    },
+    {
+      "original": "audio/binaural/s0017.wav",
+      "chinese_path": "03_双耳_HRTF/017_双耳_粉红噪声_左前方_方位+60度_仰角0度_48kHz_24位.wav",
+      "sha256": "c098fd1a64cbf6473eec406abb2c20ba5bef28e7f1554bca1cd473ec49b1955d"
+    },
+    {
+      "original": "audio/foa/s0018.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/018_FOA_粉红噪声_左前方_方位+75度_仰角0度_48kHz_24位.wav",
+      "sha256": "cc00fa22839c3bb686b1b619d18c8ee22638293d68c03bd2635ad44b1afaac9b"
+    },
+    {
+      "original": "audio/stereo/s0018.wav",
+      "chinese_path": "02_立体声/018_立体声_粉红噪声_左前方_方位+75度_仰角0度_48kHz_24位.wav",
+      "sha256": "49f90b6197d9b21540d2073d00ed693664b91dabaa74100b2a8e8051c63dac10"
+    },
+    {
+      "original": "audio/binaural/s0018.wav",
+      "chinese_path": "03_双耳_HRTF/018_双耳_粉红噪声_左前方_方位+75度_仰角0度_48kHz_24位.wav",
+      "sha256": "ac45a9068fcf23df6290dc53d7e38f1bebf1d7d728eb2263725d8d35300c92a0"
+    },
+    {
+      "original": "audio/foa/s0019.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/019_FOA_粉红噪声_正左方_方位+90度_仰角0度_48kHz_24位.wav",
+      "sha256": "36f306e08aa3f8571a0fcbd0cf398662519cdba7d461ff0e86f7bbee79425dab"
+    },
+    {
+      "original": "audio/stereo/s0019.wav",
+      "chinese_path": "02_立体声/019_立体声_粉红噪声_正左方_方位+90度_仰角0度_48kHz_24位.wav",
+      "sha256": "b24a6a801c656cfbfdbf6d6cf77b8474ffe3299cf8db205a4001e7fdbee413c5"
+    },
+    {
+      "original": "audio/binaural/s0019.wav",
+      "chinese_path": "03_双耳_HRTF/019_双耳_粉红噪声_正左方_方位+90度_仰角0度_48kHz_24位.wav",
+      "sha256": "0c33a97583915569516bcdfe909e910c1a0434768b1d1522536c93e2494e7982"
+    },
+    {
+      "original": "audio/foa_decoded_binaural/s0019.wav",
+      "chinese_path": "06_FOA解码为双耳/019_FOA解码为双耳_粉红噪声_正左方_方位+90度_仰角0度_48kHz_24位.wav",
+      "sha256": "ed1cb58482bc5befe996913c48db739e330382077a1a2a36e35565c5ded948a5"
+    },
+    {
+      "original": "audio/foa/s0020.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/020_FOA_粉红噪声_左后方_方位+105度_仰角0度_48kHz_24位.wav",
+      "sha256": "f0a1eb27c1f0497f43655c9de8da68c76eca4b6ddc43faab7a3aa14e73b86a6b"
+    },
+    {
+      "original": "audio/stereo/s0020.wav",
+      "chinese_path": "02_立体声/020_立体声_粉红噪声_左后方_方位+105度_仰角0度_48kHz_24位.wav",
+      "sha256": "49f90b6197d9b21540d2073d00ed693664b91dabaa74100b2a8e8051c63dac10"
+    },
+    {
+      "original": "audio/binaural/s0020.wav",
+      "chinese_path": "03_双耳_HRTF/020_双耳_粉红噪声_左后方_方位+105度_仰角0度_48kHz_24位.wav",
+      "sha256": "1c6e467be5e96a513849b59512543c6c6494ff668a81095b761b8cca4f4c9d93"
+    },
+    {
+      "original": "audio/foa/s0021.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/021_FOA_粉红噪声_左后方_方位+120度_仰角0度_48kHz_24位.wav",
+      "sha256": "78512860fab635465d1e62edb3bc6d4bb67c43174cdd75f0a5bbfe69f1b19723"
+    },
+    {
+      "original": "audio/stereo/s0021.wav",
+      "chinese_path": "02_立体声/021_立体声_粉红噪声_左后方_方位+120度_仰角0度_48kHz_24位.wav",
+      "sha256": "7a91c7e7bdec80cb08031fbbda691906ac77c18203be3445af1fdc22acb78728"
+    },
+    {
+      "original": "audio/binaural/s0021.wav",
+      "chinese_path": "03_双耳_HRTF/021_双耳_粉红噪声_左后方_方位+120度_仰角0度_48kHz_24位.wav",
+      "sha256": "d9e31400382cc2321ef61f2b43ea10062d34af3dec17f843e0416c54c7e1bf9a"
+    },
+    {
+      "original": "audio/foa/s0022.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/022_FOA_粉红噪声_左后方_方位+135度_仰角0度_48kHz_24位.wav",
+      "sha256": "1805ec91f88003fbb9a65eb1be43fb869db63194c6f49245667f2f703b4624df"
+    },
+    {
+      "original": "audio/stereo/s0022.wav",
+      "chinese_path": "02_立体声/022_立体声_粉红噪声_左后方_方位+135度_仰角0度_48kHz_24位.wav",
+      "sha256": "4eb2c92bae7c80d2d6b6d2f17d882a76367cf148f9761a3c9b5e8d51943f4c44"
+    },
+    {
+      "original": "audio/binaural/s0022.wav",
+      "chinese_path": "03_双耳_HRTF/022_双耳_粉红噪声_左后方_方位+135度_仰角0度_48kHz_24位.wav",
+      "sha256": "e3f4858aa94663a201ede53754303bfede6376b744d96230b21d2c0cffb576b1"
+    },
+    {
+      "original": "audio/foa/s0023.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/023_FOA_粉红噪声_左后方_方位+150度_仰角0度_48kHz_24位.wav",
+      "sha256": "e1daf9315c1d1c6be72857b7319c9ee22d63e1540f79f06daf9d9490e86ac18a"
+    },
+    {
+      "original": "audio/stereo/s0023.wav",
+      "chinese_path": "02_立体声/023_立体声_粉红噪声_左后方_方位+150度_仰角0度_48kHz_24位.wav",
+      "sha256": "8d204251b46ee9e66b75652017a1ff86da54f06b61b3949b4a4a2073ebb75d15"
+    },
+    {
+      "original": "audio/binaural/s0023.wav",
+      "chinese_path": "03_双耳_HRTF/023_双耳_粉红噪声_左后方_方位+150度_仰角0度_48kHz_24位.wav",
+      "sha256": "f69b87eb021bd454951d4b92e815606e50dad9a4a25b5928144b3d0cbd5487a1"
+    },
+    {
+      "original": "audio/foa/s0024.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/024_FOA_粉红噪声_左后方_方位+165度_仰角0度_48kHz_24位.wav",
+      "sha256": "1811ce904bed58542ca480fe34dd67fef1393e96c0bbc85d369b2205539cd7d9"
+    },
+    {
+      "original": "audio/stereo/s0024.wav",
+      "chinese_path": "02_立体声/024_立体声_粉红噪声_左后方_方位+165度_仰角0度_48kHz_24位.wav",
+      "sha256": "6e5dba06f0a0cb9e0e66071a9e558c195104b6a2799e2766e274a848c560ab59"
+    },
+    {
+      "original": "audio/binaural/s0024.wav",
+      "chinese_path": "03_双耳_HRTF/024_双耳_粉红噪声_左后方_方位+165度_仰角0度_48kHz_24位.wav",
+      "sha256": "5226315c075d2dab6aa2ef3eafa48eecb217017c4e820cf26a86586f7c675f26"
+    },
+    {
+      "original": "audio/foa/s0025.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/025_FOA_粉红噪声_正前方_方位0度_仰角-30度_48kHz_24位.wav",
+      "sha256": "367b3355d681db648275df1ef3441d8645a0547eaa92b28323895ad3ea612d81"
+    },
+    {
+      "original": "audio/stereo/s0025.wav",
+      "chinese_path": "02_立体声/025_立体声_粉红噪声_正前方_方位0度_仰角-30度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0025.wav",
+      "chinese_path": "03_双耳_HRTF/025_双耳_粉红噪声_正前方_方位0度_仰角-30度_48kHz_24位.wav",
+      "sha256": "b863716be1ba1473735fedfee43ea26ea509d5fcf7ea53072e1cc7494e68d4e6"
+    },
+    {
+      "original": "audio/foa/s0026.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/026_FOA_粉红噪声_正左方_方位+90度_仰角-30度_48kHz_24位.wav",
+      "sha256": "199df90df586804c0a870aed2b02ce9fbc54641dc89e2ad61fd8cf1fb9351196"
+    },
+    {
+      "original": "audio/stereo/s0026.wav",
+      "chinese_path": "02_立体声/026_立体声_粉红噪声_正左方_方位+90度_仰角-30度_48kHz_24位.wav",
+      "sha256": "7a91c7e7bdec80cb08031fbbda691906ac77c18203be3445af1fdc22acb78728"
+    },
+    {
+      "original": "audio/binaural/s0026.wav",
+      "chinese_path": "03_双耳_HRTF/026_双耳_粉红噪声_正左方_方位+90度_仰角-30度_48kHz_24位.wav",
+      "sha256": "8ab0a79b0c4532299f320a6cfa6e964a8ee2e87fb7221d89a163538d2e7e097a"
+    },
+    {
+      "original": "audio/foa/s0027.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/027_FOA_粉红噪声_正后方_方位+180度_仰角-30度_48kHz_24位.wav",
+      "sha256": "78f43fdc75d651a28801e3c8220f94d754cf15dd5d82864397c33de1405f22df"
+    },
+    {
+      "original": "audio/stereo/s0027.wav",
+      "chinese_path": "02_立体声/027_立体声_粉红噪声_正后方_方位+180度_仰角-30度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0027.wav",
+      "chinese_path": "03_双耳_HRTF/027_双耳_粉红噪声_正后方_方位+180度_仰角-30度_48kHz_24位.wav",
+      "sha256": "bbc6dd957f3f397da13e5bb8fd82370f82eacafe5eda4bf665ca2b2bc840009f"
+    },
+    {
+      "original": "audio/foa/s0028.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/028_FOA_粉红噪声_正右方_方位-90度_仰角-30度_48kHz_24位.wav",
+      "sha256": "714407fb295cce1dae4a31aa42184b56dcb19b857886bb256c7dda01c1f1a64d"
+    },
+    {
+      "original": "audio/stereo/s0028.wav",
+      "chinese_path": "02_立体声/028_立体声_粉红噪声_正右方_方位-90度_仰角-30度_48kHz_24位.wav",
+      "sha256": "b79f690e47a9ca3c6a39a3fca680bce6f22a3b32174c66ebc1b50575d0aeb8a4"
+    },
+    {
+      "original": "audio/binaural/s0028.wav",
+      "chinese_path": "03_双耳_HRTF/028_双耳_粉红噪声_正右方_方位-90度_仰角-30度_48kHz_24位.wav",
+      "sha256": "3e431cc9cac3d93dab0789e5604068825fdec01a5af572c1709e8449ca4763e1"
+    },
+    {
+      "original": "audio/foa/s0029.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/029_FOA_粉红噪声_正前方_方位0度_仰角+30度_48kHz_24位.wav",
+      "sha256": "f861bb0e53cb59de0223142dc76f7d72efe95736c236a4b1d3006706e273269e"
+    },
+    {
+      "original": "audio/stereo/s0029.wav",
+      "chinese_path": "02_立体声/029_立体声_粉红噪声_正前方_方位0度_仰角+30度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0029.wav",
+      "chinese_path": "03_双耳_HRTF/029_双耳_粉红噪声_正前方_方位0度_仰角+30度_48kHz_24位.wav",
+      "sha256": "c4e6633b4b46ab0ad4cc9ac21d869d879e7c2ad331a87aa5d046b25d3875d549"
+    },
+    {
+      "original": "audio/foa/s0030.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/030_FOA_粉红噪声_正左方_方位+90度_仰角+30度_48kHz_24位.wav",
+      "sha256": "6693fe6825c04fd97f12ff82973fcaf6489a86bb84849fa6f6c8b73dd98b23cd"
+    },
+    {
+      "original": "audio/stereo/s0030.wav",
+      "chinese_path": "02_立体声/030_立体声_粉红噪声_正左方_方位+90度_仰角+30度_48kHz_24位.wav",
+      "sha256": "7a91c7e7bdec80cb08031fbbda691906ac77c18203be3445af1fdc22acb78728"
+    },
+    {
+      "original": "audio/binaural/s0030.wav",
+      "chinese_path": "03_双耳_HRTF/030_双耳_粉红噪声_正左方_方位+90度_仰角+30度_48kHz_24位.wav",
+      "sha256": "3d4940599755beb9fcf9aa5e835650c1e90aac8a0f2a2e7f0df431107e099867"
+    },
+    {
+      "original": "audio/foa/s0031.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/031_FOA_粉红噪声_正后方_方位+180度_仰角+30度_48kHz_24位.wav",
+      "sha256": "8ce4d4d2d91e5b8ee3088c4d7831e6bb28393d157cea56459c8454db869a51e3"
+    },
+    {
+      "original": "audio/stereo/s0031.wav",
+      "chinese_path": "02_立体声/031_立体声_粉红噪声_正后方_方位+180度_仰角+30度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0031.wav",
+      "chinese_path": "03_双耳_HRTF/031_双耳_粉红噪声_正后方_方位+180度_仰角+30度_48kHz_24位.wav",
+      "sha256": "94b4119ee250749d4866dc756b132ed1902a640f07cda3669718fc3fd3cc3b74"
+    },
+    {
+      "original": "audio/foa/s0032.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/032_FOA_粉红噪声_正右方_方位-90度_仰角+30度_48kHz_24位.wav",
+      "sha256": "d81e86883d550ec06397044732bb2953e380962801c4f9e8913d4481c9632e6c"
+    },
+    {
+      "original": "audio/stereo/s0032.wav",
+      "chinese_path": "02_立体声/032_立体声_粉红噪声_正右方_方位-90度_仰角+30度_48kHz_24位.wav",
+      "sha256": "b79f690e47a9ca3c6a39a3fca680bce6f22a3b32174c66ebc1b50575d0aeb8a4"
+    },
+    {
+      "original": "audio/binaural/s0032.wav",
+      "chinese_path": "03_双耳_HRTF/032_双耳_粉红噪声_正右方_方位-90度_仰角+30度_48kHz_24位.wav",
+      "sha256": "02982be47bd403d580c5ff0af346361302873f49ede4efb3bdd54ec9ebe3a94d"
+    },
+    {
+      "original": "audio/foa/s0033.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/033_FOA_粉红噪声_正前方_方位0度_仰角+60度_48kHz_24位.wav",
+      "sha256": "dab8dc162a10a265da813778af38f820aee7f528db312ce220c605874f9f190c"
+    },
+    {
+      "original": "audio/stereo/s0033.wav",
+      "chinese_path": "02_立体声/033_立体声_粉红噪声_正前方_方位0度_仰角+60度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0033.wav",
+      "chinese_path": "03_双耳_HRTF/033_双耳_粉红噪声_正前方_方位0度_仰角+60度_48kHz_24位.wav",
+      "sha256": "8a8eff60ebe49ee6e45b4f44eb89973e78ffd2494de3a4b530a1c2d089d75f2c"
+    },
+    {
+      "original": "audio/foa/s0034.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/034_FOA_粉红噪声_正左方_方位+90度_仰角+60度_48kHz_24位.wav",
+      "sha256": "e3884d1ff9bdf3cc50c1d18175702af3f7984769fb44c6c3c1c573dc2ad40289"
+    },
+    {
+      "original": "audio/stereo/s0034.wav",
+      "chinese_path": "02_立体声/034_立体声_粉红噪声_正左方_方位+90度_仰角+60度_48kHz_24位.wav",
+      "sha256": "8d204251b46ee9e66b75652017a1ff86da54f06b61b3949b4a4a2073ebb75d15"
+    },
+    {
+      "original": "audio/binaural/s0034.wav",
+      "chinese_path": "03_双耳_HRTF/034_双耳_粉红噪声_正左方_方位+90度_仰角+60度_48kHz_24位.wav",
+      "sha256": "17468b210c5f9e2f670389ab92af890124afcc921ae53834f224601dfdcca9cb"
+    },
+    {
+      "original": "audio/foa/s0035.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/035_FOA_粉红噪声_正后方_方位+180度_仰角+60度_48kHz_24位.wav",
+      "sha256": "7ac47106f7545f324325a7490638fcb80f1a8e5d20d332b3376b16c0919afeec"
+    },
+    {
+      "original": "audio/stereo/s0035.wav",
+      "chinese_path": "02_立体声/035_立体声_粉红噪声_正后方_方位+180度_仰角+60度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0035.wav",
+      "chinese_path": "03_双耳_HRTF/035_双耳_粉红噪声_正后方_方位+180度_仰角+60度_48kHz_24位.wav",
+      "sha256": "df147a23d8d2d84085851eefd59567348fba3f4aac2bedfac1ef16b5aef0ae71"
+    },
+    {
+      "original": "audio/foa/s0036.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/036_FOA_粉红噪声_正右方_方位-90度_仰角+60度_48kHz_24位.wav",
+      "sha256": "f27b9b66b0e23df3ad853358fc992eb86b182a6ee93f705a17db722962d275ab"
+    },
+    {
+      "original": "audio/stereo/s0036.wav",
+      "chinese_path": "02_立体声/036_立体声_粉红噪声_正右方_方位-90度_仰角+60度_48kHz_24位.wav",
+      "sha256": "82db1c940271ef70418895477c4c2f2a6e9ef305beb5fc8c93b6aff7781d0bcc"
+    },
+    {
+      "original": "audio/binaural/s0036.wav",
+      "chinese_path": "03_双耳_HRTF/036_双耳_粉红噪声_正右方_方位-90度_仰角+60度_48kHz_24位.wav",
+      "sha256": "31ea24f0efcea67169dc362801722bd514dcf27669f8e4fe2cbbfdfbac932e6b"
+    },
+    {
+      "original": "audio/foa/s0037.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/037_FOA_粉红噪声_正上方_仰角+90度_48kHz_24位.wav",
+      "sha256": "58acfbbbb681f7d57f51356b830bdeb85a282d9f2ced6548d9a08db91d6fe61a"
+    },
+    {
+      "original": "audio/stereo/s0037.wav",
+      "chinese_path": "02_立体声/037_立体声_粉红噪声_正上方_仰角+90度_48kHz_24位.wav",
+      "sha256": "b849bb97d4bacea6082e7172694695c5a5f9da123605bbba3ed7b7ce11d31c4f"
+    },
+    {
+      "original": "audio/binaural/s0037.wav",
+      "chinese_path": "03_双耳_HRTF/037_双耳_粉红噪声_正上方_仰角+90度_48kHz_24位.wav",
+      "sha256": "3937306dfd510d5ca1305df67405cee850521df03e18e7d8899c0ba9c51ee8ba"
+    },
+    {
+      "original": "audio/foa/s0038.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/038_FOA_粉红噪声_正下方_仰角-90度_48kHz_24位.wav",
+      "sha256": "01ea49e688f935c3829661b14b48a242c2954626557eda04f1b223b005419504"
+    },
+    {
+      "original": "audio/foa/s0039.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/039_FOA_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_48kHz_24位.wav",
+      "sha256": "6d4b359daa0eee9b6b4baa8b114f8ff6812964432009326bd129b2a8d165d6fd"
+    },
+    {
+      "original": "audio/stereo/s0039.wav",
+      "chinese_path": "02_立体声/039_立体声_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_48kHz_24位.wav",
+      "sha256": "cffc38bb6779565293503fefbb540bb46f727a89580b7468ff73a1ef285b6b69"
+    },
+    {
+      "original": "audio/binaural/s0039.wav",
+      "chinese_path": "03_双耳_HRTF/039_双耳_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_48kHz_24位.wav",
+      "sha256": "71b98fb7ee962e480d53f9f4b9e40312640bac620c035989f0d9005201ef3467"
+    },
+    {
+      "original": "audio/foa_decoded_binaural/s0039.wav",
+      "chinese_path": "06_FOA解码为双耳/039_FOA解码为双耳_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_48kHz_24位.wav",
+      "sha256": "d81b9a85e2a0953a1e6c863cebded454651e59896fc8188251a37f9b2e4c1f9f"
+    },
+    {
+      "original": "audio/foa/s0040.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/040_FOA_125Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "93e0071a2d3dd4f6f4bd57a27d201098feabf25b9e80726327b520112d693560"
+    },
+    {
+      "original": "audio/stereo/s0040.wav",
+      "chinese_path": "02_立体声/040_立体声_125Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "f93ed9d0ba74a688aa675a04f56b1d34c48cdc1c3cca0b3465d1c107fb1a8195"
+    },
+    {
+      "original": "audio/binaural/s0040.wav",
+      "chinese_path": "03_双耳_HRTF/040_双耳_125Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "64cfcd5c54a31689e0ee4582f45b940ee95eb51bd376f42064121f48780b9266"
+    },
+    {
+      "original": "audio/foa/s0041.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/041_FOA_500Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "6d65ffa2d2e3d029ab45beb1db28a0be91d4741e32447f03ade1d9602eb4ed6a"
+    },
+    {
+      "original": "audio/stereo/s0041.wav",
+      "chinese_path": "02_立体声/041_立体声_500Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "542f0c60724de7b22e98270ec80f35769da83c52557e04b568a6a06de24ab5d8"
+    },
+    {
+      "original": "audio/binaural/s0041.wav",
+      "chinese_path": "03_双耳_HRTF/041_双耳_500Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "fd66a19b504a8a64ad229f75bcad4d0fdd6afbbbeced094cf975182797be221e"
+    },
+    {
+      "original": "audio/foa/s0042.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/042_FOA_1000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "988f4b83169e62982878bc91df80cccdff9e0a78a4d82031de28f54c82be66e6"
+    },
+    {
+      "original": "audio/stereo/s0042.wav",
+      "chinese_path": "02_立体声/042_立体声_1000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "5fbba29663b41b1184a3d414302539eb1d7770767b34009afb5e9ad43bfb37ad"
+    },
+    {
+      "original": "audio/binaural/s0042.wav",
+      "chinese_path": "03_双耳_HRTF/042_双耳_1000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "5c62a4f452f04cf7b2a375c496a2953d5b08991d17be8b16774a131c5deb8c14"
+    },
+    {
+      "original": "audio/foa/s0043.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/043_FOA_4000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "eeaa8e093d359ae35542e6c966b9ef959153ecefeed626707a6ab0d75ac71be1"
+    },
+    {
+      "original": "audio/stereo/s0043.wav",
+      "chinese_path": "02_立体声/043_立体声_4000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "3410ddf548321245e5146f2c84af1097d1c4213060838e0d63c3bcdf409acfc6"
+    },
+    {
+      "original": "audio/binaural/s0043.wav",
+      "chinese_path": "03_双耳_HRTF/043_双耳_4000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "7266a1cee924ceb769acab761e684dbe31bc2a5ae991185bc001fab89853e86d"
+    },
+    {
+      "original": "audio/foa/s0044.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/044_FOA_8000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "73bded335c596d7c628b0fd747258f18c40bd5e3a184c3a0001758abec69f952"
+    },
+    {
+      "original": "audio/stereo/s0044.wav",
+      "chinese_path": "02_立体声/044_立体声_8000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "d10217bdf25d51ef24e87b9ab30b3138050c88af6030f80e07c663928cc3134e"
+    },
+    {
+      "original": "audio/binaural/s0044.wav",
+      "chinese_path": "03_双耳_HRTF/044_双耳_8000Hz纯音_左前方_方位+45度_仰角0度_48kHz_24位.wav",
+      "sha256": "e352f300bc6f2c27a2c53ac430d4678e0f122b309f87976ee4b0d0f9f0306476"
+    },
+    {
+      "original": "audio/foa/s0045.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/045_FOA_40Hz至18000Hz对数扫频_左前方_方位+30度_仰角0度_48kHz_24位.wav",
+      "sha256": "b5c9220ea65a1079dacb9774ab2c0d11f553938b8f307be9a3af1c7e8bb0d08c"
+    },
+    {
+      "original": "audio/stereo/s0045.wav",
+      "chinese_path": "02_立体声/045_立体声_40Hz至18000Hz对数扫频_左前方_方位+30度_仰角0度_48kHz_24位.wav",
+      "sha256": "21d5dacea2da579922daff03b1d1f7e2269b81ed662ad6a93235bd23fc9bd4b1"
+    },
+    {
+      "original": "audio/binaural/s0045.wav",
+      "chinese_path": "03_双耳_HRTF/045_双耳_40Hz至18000Hz对数扫频_左前方_方位+30度_仰角0度_48kHz_24位.wav",
+      "sha256": "61327071f1327a65e305f1a88cc1a2db8b7e192921d7aa9d8d7accce5655942e"
+    },
+    {
+      "original": "audio/foa/s0046.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/046_FOA_带限白噪声_右前方_方位-30度_仰角0度_48kHz_24位.wav",
+      "sha256": "6646cb27835cffdb2b268dbbea5fe37641f74ffb9954d97297814fcde364225e"
+    },
+    {
+      "original": "audio/stereo/s0046.wav",
+      "chinese_path": "02_立体声/046_立体声_带限白噪声_右前方_方位-30度_仰角0度_48kHz_24位.wav",
+      "sha256": "49890e64284cb22f77b5ed3db493348987d42afdc66e014c93d3b7e3cb9ffff2"
+    },
+    {
+      "original": "audio/binaural/s0046.wav",
+      "chinese_path": "03_双耳_HRTF/046_双耳_带限白噪声_右前方_方位-30度_仰角0度_48kHz_24位.wav",
+      "sha256": "52035569855b07a232b343323b7e8fa7e260cd0fe752f126b6fc720273077bec"
+    },
+    {
+      "original": "audio/foa/s0047.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/047_FOA_谐波与幅度调制声_左前方_方位+60度_仰角0度_48kHz_24位.wav",
+      "sha256": "c710b429185c9edc2334fd8042f4b0f9736d85bbcb7310356d3968a6d4f3bdbb"
+    },
+    {
+      "original": "audio/stereo/s0047.wav",
+      "chinese_path": "02_立体声/047_立体声_谐波与幅度调制声_左前方_方位+60度_仰角0度_48kHz_24位.wav",
+      "sha256": "3793808131947f98a30e6e0b40d2811eedcd1b8479b2c5167656b52b0bb8815c"
+    },
+    {
+      "original": "audio/binaural/s0047.wav",
+      "chinese_path": "03_双耳_HRTF/047_双耳_谐波与幅度调制声_左前方_方位+60度_仰角0度_48kHz_24位.wav",
+      "sha256": "51c1b2abcaa33b18472c89785fd3125daebbc811dd8facb0cf20da6bcf1cb01b"
+    },
+    {
+      "original": "audio/foa/s0048.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/048_FOA_粉红噪声_水平逆时针绕头一周_方位0至+360度_48kHz_24位.wav",
+      "sha256": "a53d575b98822c37d83182c6b836a1c7320bcdbb2666bc4cfd1f59903a8e6d8a"
+    },
+    {
+      "original": "audio/stereo/s0048.wav",
+      "chinese_path": "02_立体声/048_立体声_粉红噪声_水平逆时针绕头一周_方位0至+360度_48kHz_24位.wav",
+      "sha256": "f0a3888fbb8c258963e5bf0e0ea9a8b6d786e6a29095767e5b63ede9fdbd7431"
+    },
+    {
+      "original": "audio/binaural/s0048.wav",
+      "chinese_path": "03_双耳_HRTF/048_双耳_粉红噪声_水平逆时针绕头一周_方位0至+360度_48kHz_24位.wav",
+      "sha256": "b9aba11fc10fa942662aec876891933a6736f1d0d7633ebcda6afada9d4f2a61"
+    },
+    {
+      "original": "audio/foa_decoded_binaural/s0048.wav",
+      "chinese_path": "06_FOA解码为双耳/048_FOA解码为双耳_粉红噪声_水平逆时针绕头一周_方位0至+360度_48kHz_24位.wav",
+      "sha256": "2416d0ab01a1c861eba737b5df99970222ce8a31e23afca7829acd90a590ee36"
+    },
+    {
+      "original": "audio/foa/s0049.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/049_FOA_粉红噪声_水平顺时针绕头一周_方位0至-360度_48kHz_24位.wav",
+      "sha256": "ca9e1182f071de93a93e35582dd034a1a6f31b6a468a26a1b4cf62d38980953a"
+    },
+    {
+      "original": "audio/stereo/s0049.wav",
+      "chinese_path": "02_立体声/049_立体声_粉红噪声_水平顺时针绕头一周_方位0至-360度_48kHz_24位.wav",
+      "sha256": "7a2079918756c054aadcad6125eab6d93d2fbe3b95df68c2acffaba5b13febd7"
+    },
+    {
+      "original": "audio/binaural/s0049.wav",
+      "chinese_path": "03_双耳_HRTF/049_双耳_粉红噪声_水平顺时针绕头一周_方位0至-360度_48kHz_24位.wav",
+      "sha256": "3220655937790629ec3c2fd83ddb72896e8f5294f5aa052fd526ccad039aa69a"
+    },
+    {
+      "original": "audio/foa/s0050.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/050_FOA_粉红噪声_右侧经过前方到左侧_方位-90至+90度_48kHz_24位.wav",
+      "sha256": "7e9b6a2322ee5b93e58080da80e6917ad0ea47e7d958ea2409f8006ca76d2910"
+    },
+    {
+      "original": "audio/stereo/s0050.wav",
+      "chinese_path": "02_立体声/050_立体声_粉红噪声_右侧经过前方到左侧_方位-90至+90度_48kHz_24位.wav",
+      "sha256": "c968f6080c1d2551cc4513549153286c662ab6bf5815b6e331f855ec385e30f1"
+    },
+    {
+      "original": "audio/binaural/s0050.wav",
+      "chinese_path": "03_双耳_HRTF/050_双耳_粉红噪声_右侧经过前方到左侧_方位-90至+90度_48kHz_24位.wav",
+      "sha256": "985d43e71d1b5a2b6b2adc66140dd9b61d1177c94e22b7f3a6b85c0b0409885b"
+    },
+    {
+      "original": "audio/foa/s0051.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/051_FOA_粉红噪声_前方由低到高_仰角-30至+80度_48kHz_24位.wav",
+      "sha256": "70291f359f4a7af4b64830f0e3749b2f01452bed8e641bbb9ddd16c84cdd2a6e"
+    },
+    {
+      "original": "audio/stereo/s0051.wav",
+      "chinese_path": "02_立体声/051_立体声_粉红噪声_前方由低到高_仰角-30至+80度_48kHz_24位.wav",
+      "sha256": "b6e8b68c07e30a76bf5e9e8b538c3ca943b4ed6cf564ea64834f47716df4b587"
+    },
+    {
+      "original": "audio/binaural/s0051.wav",
+      "chinese_path": "03_双耳_HRTF/051_双耳_粉红噪声_前方由低到高_仰角-30至+80度_48kHz_24位.wav",
+      "sha256": "691e19557d2f8e6a40527115d0f43c0d9ed47121a1698ae409d9b0242e5b89ae"
+    },
+    {
+      "original": "audio/foa/s0052.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/052_FOA_粉红噪声_经过正后方_方位+150至+210度_48kHz_24位.wav",
+      "sha256": "edd55fbd2172b05d5f0b70a320add4b80940285b807d481685ce5a219ca0d5d1"
+    },
+    {
+      "original": "audio/stereo/s0052.wav",
+      "chinese_path": "02_立体声/052_立体声_粉红噪声_经过正后方_方位+150至+210度_48kHz_24位.wav",
+      "sha256": "c7380bc056ace9956d6a8e2f31658825e720d19f715cc731ed05dce2e9f539be"
+    },
+    {
+      "original": "audio/binaural/s0052.wav",
+      "chinese_path": "03_双耳_HRTF/052_双耳_粉红噪声_经过正后方_方位+150至+210度_48kHz_24位.wav",
+      "sha256": "4b9ec598ce2ae12fd2124718b65fb5047a56e62c08b7a976162b3287ae4d0a54"
+    },
+    {
+      "original": "audio/foa/s0053.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/053_FOA_模拟头向左转_固定声源相对方位0至-90度_48kHz_24位.wav",
+      "sha256": "39601d8ab72617297f923299c5c2096d752830ce1fedd8aba664982005bc083d"
+    },
+    {
+      "original": "audio/stereo/s0053.wav",
+      "chinese_path": "02_立体声/053_立体声_模拟头向左转_固定声源相对方位0至-90度_48kHz_24位.wav",
+      "sha256": "be4004c30cab584f6f571c807260a908c65c912403033989c96fea73756ece0c"
+    },
+    {
+      "original": "audio/binaural/s0053.wav",
+      "chinese_path": "03_双耳_HRTF/053_双耳_模拟头向左转_固定声源相对方位0至-90度_48kHz_24位.wav",
+      "sha256": "cc1eda30f4548bbf2cd192271b501d0f678b4bbe92a29bd9c735c589b6909c2e"
+    },
+    {
+      "original": "audio/foa/s0054.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/054_FOA_两个独立粉红噪声_左方+70度与右方-70度_48kHz_24位.wav",
+      "sha256": "a211b498afb3154db7c8a1c9ef4053119fa564e868b2cb53146dbb46dbfddd33"
+    },
+    {
+      "original": "audio/stereo/s0054.wav",
+      "chinese_path": "02_立体声/054_立体声_两个独立粉红噪声_左方+70度与右方-70度_48kHz_24位.wav",
+      "sha256": "e2d3535ebe16a4cbe15ee0db7a01ea02a5ef54ab6e3151366a5a79873e4a2540"
+    },
+    {
+      "original": "audio/binaural/s0054.wav",
+      "chinese_path": "03_双耳_HRTF/054_双耳_两个独立粉红噪声_左方+70度与右方-70度_48kHz_24位.wav",
+      "sha256": "98175a1115fc85fe23669b38c710544b2405cde42b67c15c76def7ed7c2007db"
+    },
+    {
+      "original": "audio/foa_decoded_binaural/s0054.wav",
+      "chinese_path": "06_FOA解码为双耳/054_FOA解码为双耳_两个独立粉红噪声_左方+70度与右方-70度_48kHz_24位.wav",
+      "sha256": "b44d21570d486f88d43bf454a1b1c8ad456c22969f817a7caf77ab372cfc710d"
+    },
+    {
+      "original": "audio/foa/s0055.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/055_FOA_双声源交叉_220Hz由右向左_370Hz由左向右_两端80度_48kHz_24位.wav",
+      "sha256": "18b6986b38d41c52d5a1f5be1407235da57f42a28f507a2a1a634fc5ccca450f"
+    },
+    {
+      "original": "audio/stereo/s0055.wav",
+      "chinese_path": "02_立体声/055_立体声_双声源交叉_220Hz由右向左_370Hz由左向右_两端80度_48kHz_24位.wav",
+      "sha256": "fd8aec35f0efaf7f3376e15f6fbd567d742c8c14a2c8e6d2a8e126273bfe6b42"
+    },
+    {
+      "original": "audio/binaural/s0055.wav",
+      "chinese_path": "03_双耳_HRTF/055_双耳_双声源交叉_220Hz由右向左_370Hz由左向右_两端80度_48kHz_24位.wav",
+      "sha256": "5856d6dbec7546b0e1091c10a7d478b393f093b9979007d3cb64170196cb8a64"
+    },
+    {
+      "original": "audio/foa/s0056.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/056_FOA_三声源_右70度低频_前上30度中频_左80度高频_48kHz_24位.wav",
+      "sha256": "f39789e8a58f27cbb67b92a0a404b1f564f6188ab62ea6048e5a0dcca81ebbf0"
+    },
+    {
+      "original": "audio/stereo/s0056.wav",
+      "chinese_path": "02_立体声/056_立体声_三声源_右70度低频_前上30度中频_左80度高频_48kHz_24位.wav",
+      "sha256": "5841713fb1fbce5224722d53be8e0eba7bdebf2903fd72d72e4fa11fead36df7"
+    },
+    {
+      "original": "audio/binaural/s0056.wav",
+      "chinese_path": "03_双耳_HRTF/056_双耳_三声源_右70度低频_前上30度中频_左80度高频_48kHz_24位.wav",
+      "sha256": "72dc16fb409f70467ec4d282d1e34bb4cd87606d7d3ac4f20c5e6db0897efc9c"
+    },
+    {
+      "original": "audio/foa/s0057.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/057_FOA_双声源夹角10度_右5度与左5度_48kHz_24位.wav",
+      "sha256": "7cad1a4163bd1ee01dcd6ee9a1c7b3cd67d45290942dd91bba58fcb9d16af7fb"
+    },
+    {
+      "original": "audio/stereo/s0057.wav",
+      "chinese_path": "02_立体声/057_立体声_双声源夹角10度_右5度与左5度_48kHz_24位.wav",
+      "sha256": "81ceb338bc6f441049d70cdda13af61d96e9bcf1c45b9ac955f43998fcdf7e97"
+    },
+    {
+      "original": "audio/binaural/s0057.wav",
+      "chinese_path": "03_双耳_HRTF/057_双耳_双声源夹角10度_右5度与左5度_48kHz_24位.wav",
+      "sha256": "100bc169c163a449b72d1495ebd32a5a0372a1cd802e4dbfb7dee7c47dc1b040"
+    },
+    {
+      "original": "audio/foa/s0058.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/058_FOA_双声源夹角30度_右15度与左15度_48kHz_24位.wav",
+      "sha256": "5b2656d6bdeb7f72dd0615790f68aef9b21d459f258c3f0d407912860d31c7f0"
+    },
+    {
+      "original": "audio/stereo/s0058.wav",
+      "chinese_path": "02_立体声/058_立体声_双声源夹角30度_右15度与左15度_48kHz_24位.wav",
+      "sha256": "f9c34d3d6db338d0b3b7da2aefd2e263ec8e8106624982b3c9e0e8a93274fd79"
+    },
+    {
+      "original": "audio/binaural/s0058.wav",
+      "chinese_path": "03_双耳_HRTF/058_双耳_双声源夹角30度_右15度与左15度_48kHz_24位.wav",
+      "sha256": "5363a86a7358601bde9a47b41465585b68337564e82627c11c2f7d31cfb40022"
+    },
+    {
+      "original": "audio/foa/s0059.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/059_FOA_双声源夹角60度_右30度与左30度_48kHz_24位.wav",
+      "sha256": "1b727da7e22154bbc02005a31dbaca93b775d8e23ddd1abf0b77f9778b6fe31c"
+    },
+    {
+      "original": "audio/stereo/s0059.wav",
+      "chinese_path": "02_立体声/059_立体声_双声源夹角60度_右30度与左30度_48kHz_24位.wav",
+      "sha256": "7d9a4c0535bb43164e5f8eb6b622a852b56aeac51673c8cdf91b1cfcea51ccaa"
+    },
+    {
+      "original": "audio/binaural/s0059.wav",
+      "chinese_path": "03_双耳_HRTF/059_双耳_双声源夹角60度_右30度与左30度_48kHz_24位.wav",
+      "sha256": "c73230befdcf3058028c3dca73bd7def25081d63b4f30b572fadaa2f112c0c67"
+    },
+    {
+      "original": "audio/foa/s0060.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/060_FOA_目标左前35度_干扰右前65度_目标比干扰-10dB_48kHz_24位.wav",
+      "sha256": "cf168cd8ef2ba53d80da18b341f815d806f608812b7b42b2733f81b5e8d21e9e"
+    },
+    {
+      "original": "audio/stereo/s0060.wav",
+      "chinese_path": "02_立体声/060_立体声_目标左前35度_干扰右前65度_目标比干扰-10dB_48kHz_24位.wav",
+      "sha256": "32bb0b60a8511abeed3df5e5f907f77799e71a7667be943669dc7e059565b837"
+    },
+    {
+      "original": "audio/binaural/s0060.wav",
+      "chinese_path": "03_双耳_HRTF/060_双耳_目标左前35度_干扰右前65度_目标比干扰-10dB_48kHz_24位.wav",
+      "sha256": "1f340cf050954eaceae99888d85e33b668bba0af293e0eb0738ed98d88d0d82c"
+    },
+    {
+      "original": "audio/foa/s0061.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/061_FOA_目标左前35度_干扰右前65度_目标比干扰0dB_48kHz_24位.wav",
+      "sha256": "ff6a7bd67b03d54138f9d3565201db642af6dcc9b5da34cdc6c26ab902ea8775"
+    },
+    {
+      "original": "audio/stereo/s0061.wav",
+      "chinese_path": "02_立体声/061_立体声_目标左前35度_干扰右前65度_目标比干扰0dB_48kHz_24位.wav",
+      "sha256": "82acaca5dcc1ed0cbf03f7b8fd7e8c6dda6e3f4fe482e892f217f059287d5bab"
+    },
+    {
+      "original": "audio/binaural/s0061.wav",
+      "chinese_path": "03_双耳_HRTF/061_双耳_目标左前35度_干扰右前65度_目标比干扰0dB_48kHz_24位.wav",
+      "sha256": "4ed15b84d808a43810333cfdc853e38445f82872e87fa6751e6280732fc24815"
+    },
+    {
+      "original": "audio/foa/s0062.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/062_FOA_目标左前35度_干扰右前65度_目标比干扰+10dB_48kHz_24位.wav",
+      "sha256": "62c425b3dfa8c756bc5b1e3879ec5502f4c3e1aaf7de6655beacb0345e1c2eea"
+    },
+    {
+      "original": "audio/stereo/s0062.wav",
+      "chinese_path": "02_立体声/062_立体声_目标左前35度_干扰右前65度_目标比干扰+10dB_48kHz_24位.wav",
+      "sha256": "135f92cda9f467c82eaf769867e2701c282d780809160efdd761f2aaf0820913"
+    },
+    {
+      "original": "audio/binaural/s0062.wav",
+      "chinese_path": "03_双耳_HRTF/062_双耳_目标左前35度_干扰右前65度_目标比干扰+10dB_48kHz_24位.wav",
+      "sha256": "4ca42964dc176984f2311c3e5af45b44442c791ba884cb245a098a7b6b67043b"
+    },
+    {
+      "original": "audio/foa/s0063.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/063_FOA_左右两声源交替出现_右-60度与左+60度_48kHz_24位.wav",
+      "sha256": "f187ab69ccfbccbc5edaa997bb0516917a6148cd228b31b3083ef85eaa5d068a"
+    },
+    {
+      "original": "audio/stereo/s0063.wav",
+      "chinese_path": "02_立体声/063_立体声_左右两声源交替出现_右-60度与左+60度_48kHz_24位.wav",
+      "sha256": "36b068b6202d5dfa54ad983c531f378c85a77e5284f89f238a08c9196890c29c"
+    },
+    {
+      "original": "audio/binaural/s0063.wav",
+      "chinese_path": "03_双耳_HRTF/063_双耳_左右两声源交替出现_右-60度与左+60度_48kHz_24位.wav",
+      "sha256": "3e24fe9606ea18b5795b4266670d631127b7511768280bfe4be8cbc6da2f18d4"
+    },
+    {
+      "original": "audio/foa/s0064.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/064_FOA_两个同波形声源相加_均在左前方+30度_48kHz_24位.wav",
+      "sha256": "1838793b7a8ec7f06e9e9c3ff768b87670a2d1d09a6a3ab20b67d73761523cb9"
+    },
+    {
+      "original": "audio/stereo/s0064.wav",
+      "chinese_path": "02_立体声/064_立体声_两个同波形声源相加_均在左前方+30度_48kHz_24位.wav",
+      "sha256": "c407ae1e6e04611e9d303da60ee964d89ac167260c8931b0edf1ae4015f3b7d4"
+    },
+    {
+      "original": "audio/binaural/s0064.wav",
+      "chinese_path": "03_双耳_HRTF/064_双耳_两个同波形声源相加_均在左前方+30度_48kHz_24位.wav",
+      "sha256": "5284fb7b34e8d4392ac2072b48442b2c91d766348278d9ed971c0c748e9dc628"
+    },
+    {
+      "original": "audio/foa/s0065.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/065_FOA_左右相反方向同相信号_方位+90与-90度_48kHz_24位.wav",
+      "sha256": "d72f1a3d2c249e1390af47e5c9fe42087a7eb71ac6f46f03607cb952c817a8b8"
+    },
+    {
+      "original": "audio/stereo/s0065.wav",
+      "chinese_path": "02_立体声/065_立体声_左右相反方向同相信号_方位+90与-90度_48kHz_24位.wav",
+      "sha256": "403f0081b11fc564bca99a17a04e4376ad081faa8290bc310d2beb36ad128453"
+    },
+    {
+      "original": "audio/binaural/s0065.wav",
+      "chinese_path": "03_双耳_HRTF/065_双耳_左右相反方向同相信号_方位+90与-90度_48kHz_24位.wav",
+      "sha256": "ac7763109d4313e366d2ffe048eb97bf8dc1d0dea0277eb8ca6f8e14eb1fbe94"
+    },
+    {
+      "original": "audio/foa/s0066.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/066_FOA_左右相反方向反相信号_方位+90与-90度_48kHz_24位.wav",
+      "sha256": "05d1d75c88a18efafef5005e18132395b5badac37ba0789ca89e067648390e46"
+    },
+    {
+      "original": "audio/stereo/s0066.wav",
+      "chinese_path": "02_立体声/066_立体声_左右相反方向反相信号_方位+90与-90度_48kHz_24位.wav",
+      "sha256": "c772589f2cb734c840607b9cef6d065dcb993e1fd132e0030a949b2c400dbd32"
+    },
+    {
+      "original": "audio/binaural/s0066.wav",
+      "chinese_path": "03_双耳_HRTF/066_双耳_左右相反方向反相信号_方位+90与-90度_48kHz_24位.wav",
+      "sha256": "f76f563b647a6123052f12cc6a176bc27398040433da5cb18497107b11ea0854"
+    },
+    {
+      "original": "audio/foa/s0067.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/067_FOA_近似弥散场_12个方向独立粉红噪声_48kHz_24位.wav",
+      "sha256": "f21ae04275dd0482cf7869f4a75da6435f95f1235a0759d5111eb223f61af0f9"
+    },
+    {
+      "original": "audio/stereo/s0067.wav",
+      "chinese_path": "02_立体声/067_立体声_近似弥散场_12个方向独立粉红噪声_48kHz_24位.wav",
+      "sha256": "bc786755e104a1d7c18ddbedc489e541b9d69a2157149dc4ffdad6142a6e2889"
+    },
+    {
+      "original": "audio/binaural/s0067.wav",
+      "chinese_path": "03_双耳_HRTF/067_双耳_近似弥散场_12个方向独立粉红噪声_48kHz_24位.wav",
+      "sha256": "a8b799f35cc8fd185ea40c0f63d1bc9efc07e0de5e4f046c0f19f473ffb12a8d"
+    },
+    {
+      "original": "audio/foa/s0068.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/068_FOA_直达声左前20度_加三路离散反射_分量能量比0dB_48kHz_24位.wav",
+      "sha256": "916cbaad69e7eeec1a211824ef21b54515fa910112a26741dde020d79369d5f6"
+    },
+    {
+      "original": "audio/stereo/s0068.wav",
+      "chinese_path": "02_立体声/068_立体声_直达声左前20度_加三路离散反射_分量能量比0dB_48kHz_24位.wav",
+      "sha256": "b05a9cb95d0fd9bfa1b08c979bbc310a69870d3145f5b7e3f0f0ff4356816288"
+    },
+    {
+      "original": "audio/binaural/s0068.wav",
+      "chinese_path": "03_双耳_HRTF/068_双耳_直达声左前20度_加三路离散反射_分量能量比0dB_48kHz_24位.wav",
+      "sha256": "58842eae760540f0ca8a799217396923b38f4c430b33d839aead2a737ec36d96"
+    },
+    {
+      "original": "audio/foa/s0069.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/069_FOA_直达声左前20度_加三路离散反射_分量能量比6dB_48kHz_24位.wav",
+      "sha256": "7e5c5e0aa9c2171c2206ae5af32336620d96a887b38044492923908d75adc8a9"
+    },
+    {
+      "original": "audio/stereo/s0069.wav",
+      "chinese_path": "02_立体声/069_立体声_直达声左前20度_加三路离散反射_分量能量比6dB_48kHz_24位.wav",
+      "sha256": "81b5f747081eefee5699782047f3db6aeb51d1f8cd9e03d049e6cd1d252e8458"
+    },
+    {
+      "original": "audio/binaural/s0069.wav",
+      "chinese_path": "03_双耳_HRTF/069_双耳_直达声左前20度_加三路离散反射_分量能量比6dB_48kHz_24位.wav",
+      "sha256": "e9163ab815719e38967aa21df18aef74193bc8f6ad94fc1bb7ac0a8438eebb60"
+    },
+    {
+      "original": "audio/foa/s0070.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/070_FOA_直达声左前20度_加三路离散反射_分量能量比12dB_48kHz_24位.wav",
+      "sha256": "71fd67b8a05165ab461ec2515fe62aad0c6720b24347b8feec63d58f1c597563"
+    },
+    {
+      "original": "audio/stereo/s0070.wav",
+      "chinese_path": "02_立体声/070_立体声_直达声左前20度_加三路离散反射_分量能量比12dB_48kHz_24位.wav",
+      "sha256": "f628531529cf28e83386b5781658628408065b3ce6037c25c2bb8eb7fb5a7783"
+    },
+    {
+      "original": "audio/binaural/s0070.wav",
+      "chinese_path": "03_双耳_HRTF/070_双耳_直达声左前20度_加三路离散反射_分量能量比12dB_48kHz_24位.wav",
+      "sha256": "d0cfb5e2d81e9cd27615d67396e8606387d62e777415981f9494be9f2e90b9d5"
+    },
+    {
+      "original": "audio/foa/s0071.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/071_FOA_左前方+45度_同一粉红噪声_相对电平0dB_48kHz_24位.wav",
+      "sha256": "c015c952674e90ac3b7066696f725a86fd539ae9bd3a1e66d4ccfd33589c3413"
+    },
+    {
+      "original": "audio/stereo/s0071.wav",
+      "chinese_path": "02_立体声/071_立体声_左前方+45度_同一粉红噪声_相对电平0dB_48kHz_24位.wav",
+      "sha256": "9c212b98793d14073ee450905bcb4dd2a944c5660c433c2639fa2f511cdeb73e"
+    },
+    {
+      "original": "audio/binaural/s0071.wav",
+      "chinese_path": "03_双耳_HRTF/071_双耳_左前方+45度_同一粉红噪声_相对电平0dB_48kHz_24位.wav",
+      "sha256": "1d544852c062e60170fc4fb59bf00ee2f5a510a4876db896022226633857255d"
+    },
+    {
+      "original": "audio/foa/s0072.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/072_FOA_左前方+45度_同一粉红噪声_相对电平-20dB_48kHz_24位.wav",
+      "sha256": "15eeb4b6970f946dec78a154839f0c8b22132313de7c9fc37a1b5977f5795a93"
+    },
+    {
+      "original": "audio/stereo/s0072.wav",
+      "chinese_path": "02_立体声/072_立体声_左前方+45度_同一粉红噪声_相对电平-20dB_48kHz_24位.wav",
+      "sha256": "38f364948d8e248d1147bf64ec07fa697881e07c6c3041ee61f896431140d7fb"
+    },
+    {
+      "original": "audio/binaural/s0072.wav",
+      "chinese_path": "03_双耳_HRTF/072_双耳_左前方+45度_同一粉红噪声_相对电平-20dB_48kHz_24位.wav",
+      "sha256": "755eb56f936c9231fd6f3ca8d78a25018f76f81e132cc5e1a940fe7888888af2"
+    },
+    {
+      "original": "audio/foa/s0073.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/073_FOA_左前方+45度_同一粉红噪声_相对电平-40dB_48kHz_24位.wav",
+      "sha256": "bf7d268c28f8a74b46b96358f4445a352debb2ec3fc540cd42a595596f740a64"
+    },
+    {
+      "original": "audio/stereo/s0073.wav",
+      "chinese_path": "02_立体声/073_立体声_左前方+45度_同一粉红噪声_相对电平-40dB_48kHz_24位.wav",
+      "sha256": "ef5faacc5b7d3282859a067a330c0782e25e20a2eecaea31a02f9a603764f9ca"
+    },
+    {
+      "original": "audio/binaural/s0073.wav",
+      "chinese_path": "03_双耳_HRTF/073_双耳_左前方+45度_同一粉红噪声_相对电平-40dB_48kHz_24位.wav",
+      "sha256": "2d0182cac0a713accbd372d0fb7c6f618ed224a3623186503877e5c0384e7dd1"
+    },
+    {
+      "original": "audio/foa/s0074.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/074_FOA_左前方+45度_同一粉红噪声_相对电平-60dB_48kHz_24位.wav",
+      "sha256": "00c38bd703687edf0b75e933e6f565593ca41a30ac45bbb01064e10a0df1f582"
+    },
+    {
+      "original": "audio/stereo/s0074.wav",
+      "chinese_path": "02_立体声/074_立体声_左前方+45度_同一粉红噪声_相对电平-60dB_48kHz_24位.wav",
+      "sha256": "86235635ba9b1bb37cfb06e0fb2311e0c4e7728195d200c3d798f5f4ada84192"
+    },
+    {
+      "original": "audio/binaural/s0074.wav",
+      "chinese_path": "03_双耳_HRTF/074_双耳_左前方+45度_同一粉红噪声_相对电平-60dB_48kHz_24位.wav",
+      "sha256": "4816f51d510e8328bf919fdcd45bd0e8baf30837e9f9ea26f21cfd8d4f620ae2"
+    },
+    {
+      "original": "audio/foa/s0075.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/075_FOA_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以1_48kHz_24位.wav",
+      "sha256": "f30e1fe005cfa7c3837a8e629b080e333b4a636cc8226f32f21c835636fe362e"
+    },
+    {
+      "original": "audio/stereo/s0075.wav",
+      "chinese_path": "02_立体声/075_立体声_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以1_48kHz_24位.wav",
+      "sha256": "9da1df8dd2793ff9391c4cf6ff81752772859bc13466838b47240fbec6a3c1d1"
+    },
+    {
+      "original": "audio/binaural/s0075.wav",
+      "chinese_path": "03_双耳_HRTF/075_双耳_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以1_48kHz_24位.wav",
+      "sha256": "4e3cd0ddb7e83d21f95604ddd7a4d10f59a4fb001617896be5fe5ea23474759f"
+    },
+    {
+      "original": "audio/foa/s0076.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/076_FOA_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以2_48kHz_24位.wav",
+      "sha256": "3d8b08eb549ea4890988e882b62b307f7c7aedce74385585faa1bfca6db92db0"
+    },
+    {
+      "original": "audio/stereo/s0076.wav",
+      "chinese_path": "02_立体声/076_立体声_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以2_48kHz_24位.wav",
+      "sha256": "9ae5eba5da72cc59686dea08674e567d55c88c7ec0c459c5c82ab40494e373a1"
+    },
+    {
+      "original": "audio/binaural/s0076.wav",
+      "chinese_path": "03_双耳_HRTF/076_双耳_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以2_48kHz_24位.wav",
+      "sha256": "85a0e15ec6776b20ef3f63819bff973c5beec80791dac313c8b9980dd6fdda58"
+    },
+    {
+      "original": "audio/foa/s0077.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/077_FOA_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以4_48kHz_24位.wav",
+      "sha256": "dece35a6660bc78acf02da693cd819d369f900bf4ac63f2236b8adb294ecb6d7"
+    },
+    {
+      "original": "audio/stereo/s0077.wav",
+      "chinese_path": "02_立体声/077_立体声_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以4_48kHz_24位.wav",
+      "sha256": "f563de3dbeeecb4015a304e0a32b52e9410220333c02d1fb2479f21c9ffaecec"
+    },
+    {
+      "original": "audio/binaural/s0077.wav",
+      "chinese_path": "03_双耳_HRTF/077_双耳_左前方+30度_仅模拟距离幅度变化_幅度为基准的1除以4_48kHz_24位.wav",
+      "sha256": "039157607a023e97ff3f1aacbfb63d92bc617acfdd6170538ebb6f50dc7732c8"
+    },
+    {
+      "original": "audio/foa/s0078.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/078_FOA_正左方+90度_单采样脉冲_时刻0.5、1、1.75、2.5秒_48kHz_24位.wav",
+      "sha256": "beabe6d662127d4b6c1f1979590255de2659510a2261366d1f2464766607d3c5"
+    },
+    {
+      "original": "audio/stereo/s0078.wav",
+      "chinese_path": "02_立体声/078_立体声_正左方+90度_单采样脉冲_时刻0.5、1、1.75、2.5秒_48kHz_24位.wav",
+      "sha256": "e15028e19e471c30baad8a6fde607dd865f723b356e04722d2e59dc000705c8e"
+    },
+    {
+      "original": "audio/binaural/s0078.wav",
+      "chinese_path": "03_双耳_HRTF/078_双耳_正左方+90度_单采样脉冲_时刻0.5、1、1.75、2.5秒_48kHz_24位.wav",
+      "sha256": "f32a4782bf732f04a324e4ed7f85881c0267c1c80f721ca406e65dee720abce9"
+    },
+    {
+      "original": "audio/foa/s0079.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/079_FOA_右前方-45度_谐波声1秒开始2秒结束_48kHz_24位.wav",
+      "sha256": "077f5fe36afef8adfac40243054bf3adbc2f76c682930f7a419655a8b2e4edbb"
+    },
+    {
+      "original": "audio/stereo/s0079.wav",
+      "chinese_path": "02_立体声/079_立体声_右前方-45度_谐波声1秒开始2秒结束_48kHz_24位.wav",
+      "sha256": "788edd2e9b3b22b71eaa0e926e3aeaa002eb787ea67b52cee3122aec7c008a6b"
+    },
+    {
+      "original": "audio/binaural/s0079.wav",
+      "chinese_path": "03_双耳_HRTF/079_双耳_右前方-45度_谐波声1秒开始2秒结束_48kHz_24位.wav",
+      "sha256": "e86146f60c57e458c60338742b30afc2f5725fd7d227d6be6f501ce846659b3a"
+    },
+    {
+      "original": "audio/foa/s0080.wav",
+      "chinese_path": "01_FOA四声道_WYZX_SN3D/080_FOA_数字静音_所有采样均为零_48kHz_24位.wav",
+      "sha256": "bfa461d7799a74baf9ab0a71abcb0f9e2898c67f80c66c78d41669471fe45dce"
+    },
+    {
+      "original": "audio/stereo/s0080.wav",
+      "chinese_path": "02_立体声/080_立体声_数字静音_所有采样均为零_48kHz_24位.wav",
+      "sha256": "accdc1249a1c7930752e73f3ee915fe18c88d3bf1383243c70dd379f70a93e92"
+    },
+    {
+      "original": "audio/binaural/s0080.wav",
+      "chinese_path": "03_双耳_HRTF/080_双耳_数字静音_所有采样均为零_48kHz_24位.wav",
+      "sha256": "accdc1249a1c7930752e73f3ee915fe18c88d3bf1383243c70dd379f70a93e92"
+    },
+    {
+      "original": "audio/diagnostics/foa/valid_acn_n3d.wav",
+      "chinese_path": "04_声道与格式对照/FOA_N3D归一化_WYZX_左前30度上20度_48kHz_24位.wav",
+      "sha256": "41bf073e9cecf42853d03c1436f4eb8c0d4f1affba2578400e98e04b0ed9318d"
+    },
+    {
+      "original": "audio/diagnostics/foa/valid_fuma.wav",
+      "chinese_path": "04_声道与格式对照/FOA_FuMa格式_WXYZ_左前30度上20度_48kHz_24位.wav",
+      "sha256": "aadddf675ac674278b6dc35269f713c96f57cd461921526784f263ea20ebc711"
+    },
+    {
+      "original": "audio/diagnostics/foa/fault_swap_x_y.wav",
+      "chinese_path": "04_声道与格式对照/FOA_故意交换X与Y_原方向左前30度上20度_48kHz_24位.wav",
+      "sha256": "f33a4859ae4e2d95ac1f428f905e836a4913a9abbf3c9ed1fcd19edfb6500da6"
+    },
+    {
+      "original": "audio/diagnostics/foa/mirror_left_right.wav",
+      "chinese_path": "04_声道与格式对照/FOA_左右镜像_右前方30度上20度_48kHz_24位.wav",
+      "sha256": "543ce0717ca42adec9e233d68c25cb3db4c91f1ebe4fcb1bb21a78e7792a8c6d"
+    },
+    {
+      "original": "audio/diagnostics/foa/fault_z_polarity.wav",
+      "chinese_path": "04_声道与格式对照/FOA_Z声道反相_左前方30度下20度_48kHz_24位.wav",
+      "sha256": "a26dab0465b30240d7a00a2cc9e23e0e54ff17b211a7f6fc16f891abafb5813a"
+    },
+    {
+      "original": "audio/diagnostics/foa/fault_w_gain_minus3db.wav",
+      "chinese_path": "04_声道与格式对照/FOA_故意将W衰减3.01dB_原方向左前30度上20度_48kHz_24位.wav",
+      "sha256": "164f82dfa5780b105e546c8cde084da80753d8651eea7b0dbad795a3d691122c"
+    },
+    {
+      "original": "audio/diagnostics/foa/fault_drop_y.wav",
+      "chinese_path": "04_声道与格式对照/FOA_故意丢失Y声道_原方向左前30度上20度_48kHz_24位.wav",
+      "sha256": "8662217457cadb589e60401973628eda6dd1ecf537fcea9ec939b58957c51f87"
+    },
+    {
+      "original": "audio/diagnostics/foa/fault_whole_polarity.wav",
+      "chinese_path": "04_声道与格式对照/FOA_全部声道反相_左前方30度上20度_48kHz_24位.wav",
+      "sha256": "4215ff4bfdd86881c8e0fb99fcfe5e9afd1359e889cc51061b415b40da882ab6"
+    },
+    {
+      "original": "audio/diagnostics/foa/yaw_plus90.wav",
+      "chinese_path": "04_声道与格式对照/FOA_声场向左旋转90度_左后方120度上20度_48kHz_24位.wav",
+      "sha256": "1eb36ecf044a1b24e2bfd022ed25ec372ae8e2dacdcac196a0b8c57f6cc0463c"
+    },
+    {
+      "original": "audio/diagnostics/foa/fault_y_delay_16samples.wav",
+      "chinese_path": "04_声道与格式对照/FOA_故意将Y延迟16采样_原方向左前30度上20度_48kHz_24位.wav",
+      "sha256": "6ff42ecc9823859d1d751f9a67f4020868408ee6aab4989a116ef2da83bb24fa"
+    },
+    {
+      "original": "audio/diagnostics/foa/channel_order_W_Y_Z_X.wav",
+      "chinese_path": "04_声道与格式对照/FOA_声道依次发声_W然后Y然后Z然后X_48kHz_24位.wav",
+      "sha256": "4aa4ecda716eac883b62a60225d8c39e93f4debf39a3c690ff6d48c78335f003"
+    },
+    {
+      "original": "audio/diagnostics/stereo/left_only.wav",
+      "chinese_path": "04_声道与格式对照/立体声_只有左声道_1000Hz纯音_48kHz_24位.wav",
+      "sha256": "8b35af9ef34b83ffe1a5f4f928105bf1662e16863dc62e3e97ca1b8434445096"
+    },
+    {
+      "original": "audio/diagnostics/stereo/right_only.wav",
+      "chinese_path": "04_声道与格式对照/立体声_只有右声道_1000Hz纯音_48kHz_24位.wav",
+      "sha256": "6fe07c062a8af6855f5632448325e9b9bc85f2e7ddde57f492ec9017bab5e056"
+    },
+    {
+      "original": "audio/diagnostics/stereo/in_phase.wav",
+      "chinese_path": "04_声道与格式对照/立体声_左右同相_1000Hz纯音_48kHz_24位.wav",
+      "sha256": "c79c31ec62e17eac830bbeae08394d93420f7a430d19d1ac741927decb9a94ca"
+    },
+    {
+      "original": "audio/diagnostics/stereo/anti_phase.wav",
+      "chinese_path": "04_声道与格式对照/立体声_左右反相_合为单声道时抵消_48kHz_24位.wav",
+      "sha256": "9231d400eb8bc4343b118efbe3f53ab4bb660f56b3016c146de2d0776c226d0e"
+    },
+    {
+      "original": "audio/diagnostics/stereo/uncorrelated.wav",
+      "chinese_path": "04_声道与格式对照/立体声_左右互不相关的带限噪声_48kHz_24位.wav",
+      "sha256": "bc5bf30e481a4a6b2e498ae4afe36359daef2b375b599dcccec37ff32704883e"
+    },
+    {
+      "original": "audio/diagnostics/binaural/analytic_itd_-24samples.wav",
+      "chinese_path": "04_声道与格式对照/双耳_仅有时间差_右耳提前500微秒_48kHz_24位.wav",
+      "sha256": "c2caff5cd271fa4f56f1c3a6e6657c66aea9586b88024adf97db371bec29f421"
+    },
+    {
+      "original": "audio/diagnostics/binaural/analytic_itd_-12samples.wav",
+      "chinese_path": "04_声道与格式对照/双耳_仅有时间差_右耳提前250微秒_48kHz_24位.wav",
+      "sha256": "d044d7c5ad637b97cc9130cf365cd516365c9e2f79345bfa7d61ded237225c1a"
+    },
+    {
+      "original": "audio/diagnostics/binaural/analytic_itd_+12samples.wav",
+      "chinese_path": "04_声道与格式对照/双耳_仅有时间差_左耳提前250微秒_48kHz_24位.wav",
+      "sha256": "8616f02874e6c5da370103e1be5d579b7922e495f615ebf805f7e0ddfb9ef7b1"
+    },
+    {
+      "original": "audio/diagnostics/binaural/analytic_itd_+24samples.wav",
+      "chinese_path": "04_声道与格式对照/双耳_仅有时间差_左耳提前500微秒_48kHz_24位.wav",
+      "sha256": "8222bb402af229bdc7ad368ea72a5fb7c5e0f00a838b1df5820eeb6e35b3b0d7"
+    },
+    {
+      "original": "audio/diagnostics/binaural/analytic_ild_-12db.wav",
+      "chinese_path": "04_声道与格式对照/双耳_仅有电平差_右耳更响12dB_48kHz_24位.wav",
+      "sha256": "5d91b74fc6717a230762dc444063d260de50d0dfd1cc30ce365878ce33b31e59"
+    },
+    {
+      "original": "audio/diagnostics/binaural/analytic_ild_-6db.wav",
+      "chinese_path": "04_声道与格式对照/双耳_仅有电平差_右耳更响6dB_48kHz_24位.wav",
+      "sha256": "2eab5448e4fc215e007ade3d6ef5869deed7a416c983ea3f3fc3939e0070a688"
+    },
+    {
+      "original": "audio/diagnostics/binaural/analytic_ild_+6db.wav",
+      "chinese_path": "04_声道与格式对照/双耳_仅有电平差_左耳更响6dB_48kHz_24位.wav",
+      "sha256": "8eefae5892d35ef1a06aff791947238525bb72e28f9e1929fd2e3d116be51a7f"
+    },
+    {
+      "original": "audio/diagnostics/binaural/analytic_ild_+12db.wav",
+      "chinese_path": "04_声道与格式对照/双耳_仅有电平差_左耳更响12dB_48kHz_24位.wav",
+      "sha256": "9d04ea149eb1826024597e74f5731a1e89155498f924c866a7127bfb7e2071e3"
+    },
+    {
+      "original": "audio/diagnostics/stress/near_full_scale_minus1db.wav",
+      "chinese_path": "08_满幅与直流数值检查/立体声_接近满幅_峰值-1dBFS_1000Hz纯音_48kHz_24位.wav",
+      "sha256": "9bcf2fda7c60a6d003b109d57c61c501b767caf190188a64dcd34f2c805b0b0b"
+    },
+    {
+      "original": "audio/diagnostics/stress/dc_offset.wav",
+      "chinese_path": "08_满幅与直流数值检查/立体声_直流偏置+0.01_数值检查用_48kHz_24位.wav",
+      "sha256": "76da2704ecfda448d23f26495b9216c64eb13bf5f8fe9853e59846a3a72aad53"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/foa/s0013.wav",
+      "chinese_path": "05_采样率与位深对照/013_FOA_粉红噪声_正前方_方位0度_仰角0度_44.1kHz_24位.wav",
+      "sha256": "8835efedbd8c5df3ec009607192182dd2be4e7d1e0875961c273e30deb2f4440"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/foa/s0013.wav",
+      "chinese_path": "05_采样率与位深对照/013_FOA_粉红噪声_正前方_方位0度_仰角0度_16kHz_16位.wav",
+      "sha256": "a77f9a6c1a490e630e7fe545c57e25d3bfaf5b12bab9485d518c1f05917247a9"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/stereo/s0013.wav",
+      "chinese_path": "05_采样率与位深对照/013_立体声_粉红噪声_正前方_方位0度_仰角0度_44.1kHz_24位.wav",
+      "sha256": "a14fe649e54fd638878f9bd056124462f145259f51d5252d3f1208a2ddaa0a95"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/stereo/s0013.wav",
+      "chinese_path": "05_采样率与位深对照/013_立体声_粉红噪声_正前方_方位0度_仰角0度_16kHz_16位.wav",
+      "sha256": "81f9b0b1eba83eb518204b0c32f72e0ccd9cad0da73bf1d293ac2aea2ac8153e"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/binaural/s0013.wav",
+      "chinese_path": "05_采样率与位深对照/013_双耳_粉红噪声_正前方_方位0度_仰角0度_44.1kHz_24位.wav",
+      "sha256": "a8645d28a4c25f5f12651a19a616fc5c02dae0d54c87fb93b681d5863f813e8c"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/binaural/s0013.wav",
+      "chinese_path": "05_采样率与位深对照/013_双耳_粉红噪声_正前方_方位0度_仰角0度_16kHz_16位.wav",
+      "sha256": "01796c25efea9cd0007c2d4e713957152380ecdaaa081b4eb9ce8284e2b0ab13"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/foa/s0039.wav",
+      "chinese_path": "05_采样率与位深对照/039_FOA_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_44.1kHz_24位.wav",
+      "sha256": "cd5cd41a9d3c91afa120251b666a009ca77ea0a89d0ffa6ced9ccc8877647b62"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/foa/s0039.wav",
+      "chinese_path": "05_采样率与位深对照/039_FOA_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_16kHz_16位.wav",
+      "sha256": "9979e611efd53fa6f0ab8c43de99934d427b36f9f34bbee8f85796c47a8644b6"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/stereo/s0039.wav",
+      "chinese_path": "05_采样率与位深对照/039_立体声_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_44.1kHz_24位.wav",
+      "sha256": "2a5b76242147ef7e5219c926f09eed18056f62c8c5196193ff09e7e33c55e246"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/stereo/s0039.wav",
+      "chinese_path": "05_采样率与位深对照/039_立体声_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_16kHz_16位.wav",
+      "sha256": "ec11cecf097e2b9015cbb1a109982c138bef24b7180bc0d504942da1abb9690d"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/binaural/s0039.wav",
+      "chinese_path": "05_采样率与位深对照/039_双耳_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_44.1kHz_24位.wav",
+      "sha256": "bad767dc25bd570492c49a3c011442407db8df59e3b3eb11bb6966c72aadaa5e"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/binaural/s0039.wav",
+      "chinese_path": "05_采样率与位深对照/039_双耳_格式对照原信号_粉红噪声_左前方_方位+30度_仰角+20度_16kHz_16位.wav",
+      "sha256": "1c640d676c76e3a32e4c8a9621f0731f4e612532e4fbddefc435c2f9acecd0ed"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/foa/s0048.wav",
+      "chinese_path": "05_采样率与位深对照/048_FOA_粉红噪声_水平逆时针绕头一周_方位0至+360度_44.1kHz_24位.wav",
+      "sha256": "e222668e2e0a7f82585be21ad162575a0eea557c0881ffe7f06b18ce7fa375f1"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/foa/s0048.wav",
+      "chinese_path": "05_采样率与位深对照/048_FOA_粉红噪声_水平逆时针绕头一周_方位0至+360度_16kHz_16位.wav",
+      "sha256": "06db555e8dc5180f2d00036591d7c27c6c3c565726e8ed9eecd53b54eb08ed3e"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/stereo/s0048.wav",
+      "chinese_path": "05_采样率与位深对照/048_立体声_粉红噪声_水平逆时针绕头一周_方位0至+360度_44.1kHz_24位.wav",
+      "sha256": "51ebdef55d5d5e3a4c3de6687e71725f74c9771622b96148f0b85d59a97f55ca"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/stereo/s0048.wav",
+      "chinese_path": "05_采样率与位深对照/048_立体声_粉红噪声_水平逆时针绕头一周_方位0至+360度_16kHz_16位.wav",
+      "sha256": "339e4335733a7bd9ac359f458d347045159eb83b782c2260b251eb1f983f8fc5"
+    },
+    {
+      "original": "audio/compatibility/44100_PCM_24/binaural/s0048.wav",
+      "chinese_path": "05_采样率与位深对照/048_双耳_粉红噪声_水平逆时针绕头一周_方位0至+360度_44.1kHz_24位.wav",
+      "sha256": "5b29677d167d231ad697216cb2158b46e6da9fafedba5c7614bd01917460a88f"
+    },
+    {
+      "original": "audio/compatibility/16000_PCM_16/binaural/s0048.wav",
+      "chinese_path": "05_采样率与位深对照/048_双耳_粉红噪声_水平逆时针绕头一周_方位0至+360度_16kHz_16位.wav",
+      "sha256": "82e3c8597b3df600f19852693e37b1c2ee1c617bacb2320228dd9fe87bdbf90d"
+    },
+    {
+      "original": "quick_listen/stereo_tour.wav",
+      "chinese_path": "07_快速试听/立体声_43秒综合试听_后右前左上及绕头运动_48kHz_24位.wav",
+      "sha256": "c34588dbb7447937839078e78e510cd43491bed44d03f56f9aec988d0b22024b"
+    },
+    {
+      "original": "quick_listen/binaural_tour.wav",
+      "chinese_path": "07_快速试听/双耳_43秒综合试听_后右前左上及绕头运动_48kHz_24位.wav",
+      "sha256": "f6fe5a9dea54bc4e0bf549f501c854f89168e8d881aaefe766cc65334875147d"
+    }
+  ]
+}
