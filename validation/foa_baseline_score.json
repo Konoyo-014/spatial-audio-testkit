@@ -1,0 +1,1678 @@
+{
+  "status": "evaluated",
+  "reference_frames": 175,
+  "scene_count": 4,
+  "threshold_deg": 20.0,
+  "true_positive": 130,
+  "false_positive": 0,
+  "false_negative": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "matched_mean_error_deg": 0.016036188688479665,
+  "matched_median_error_deg": 0.007902109586902082,
+  "matched_p95_error_deg": 0.059964877360924734,
+  "note": "Assignment ignores identity. Angular error excludes unmatched sources; read it together with FP/FN/F1. Not a SELD score. Align algorithm latency before writing predictions. Nominal direction labels; binaural uses a finite, crossfaded HRTF grid. Reflections score direct sources only.",
+  "frames": [
+    {
+      "scene_id": "s0013",
+      "time_s": 0.0,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.1,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.2,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 0.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 1.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.8,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0013",
+      "time_s": 2.9,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.0,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.1,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.2,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.9575586669421963e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        3.1945284701301985e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        5.263014220319208e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.831646840510158e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        1.7075472925031877e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 0.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        3.7215130446689415e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        4.26886823125797e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.831646840510158e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        4.9783130603797145e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        3.4150945850063763e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.9575586669421963e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        3.91248236030638e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.699869328381916e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.2588727439225506e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.2588727439225506e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 1.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.9575586669421963e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        3.818191820832846e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.699869328381916e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.831646840510158e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.2588727439225506e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.2588727439225506e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.2588727439225506e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        6.668185343934157e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        2.831646840510158e-06
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.8,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0039",
+      "time_s": 2.9,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.0,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.1,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.2,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.006565369514829402
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.020700758217938313
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.014173420479510378
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.04408879281255635
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0012899056261591432
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0015902466409600776
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 0.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.009022137229739225
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.01220223966665834
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.03307415933415454
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.013137095690071866
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.06260499753013586
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.06243683079241398
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0031788490095440267
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.021335812220910806
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.021219934151177927
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.020332278858185525
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 1.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.008527863657338965
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0017876279087811447
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.022853675086993392
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.015670064726633636
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.011153659916339181
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.017519565996932097
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.03732235360708986
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.006229389319931221
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0573660319929597
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.03808472667262323
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 2.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.023351220021934512
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.018785180457629728
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.007276355516465199
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.04592902877769909
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.06134607218041263
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.04524050523796312
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.047679368850471346
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.01940881906066831
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.06975535894286583
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.002383154178592566
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 3.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0014675080067364057
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.03040456398817272
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0053005446154332616
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.019269797706839665
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.01654444364042137
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.003874382381907548
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.012608717729234204
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.00253135564223914
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.018430704036173525
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.019370941938613294
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 4.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.009969711157393611
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.054227757162985106
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.02164907197816417
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0033470419559126882
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.010456947974567124
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.03182632048722604
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0007261182988949285
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.06676372061071102
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.04480603809492245
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.01621588285586283
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 5.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.009214525599089507
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0405658208971645
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.030897525741600956
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.016631259330650662
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.026031661954391824
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.000690857998035125
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.02793058500850212
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.04032359511875732
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.017145735556710312
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.011379119550231494
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 6.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.05827675035932844
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.01601611658444964
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.026640373228376278
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.05347307815553946
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.3,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.041411700743735645
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.4,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.009349157677250561
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.5,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.02261399187324903
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.6,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.015355253156253097
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.7,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.05521367455899002
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.8,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.021630232689063316
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 7.9,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.0876034129121942
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 8.0,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.051135077069644534
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 8.1,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.06985538017671652
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 8.2,
+      "reference_count": 1,
+      "predicted_count": 1,
+      "matched_errors_deg": [
+        0.04082738231058189
+      ],
+      "true_positive": 1
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 8.3,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0048",
+      "time_s": 8.4,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.0,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.1,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.2,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.3,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.4,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.5,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.6,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.7,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.8,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 0.9,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.0,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.1,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.2,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.3,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.4,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.5,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.6,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.7,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.8,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 1.9,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.0,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.1,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.2,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.3,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.4,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.5,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.6,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.7,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.8,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    },
+    {
+      "scene_id": "s0080",
+      "time_s": 2.9,
+      "reference_count": 0,
+      "predicted_count": 0,
+      "matched_errors_deg": [],
+      "true_positive": 0
+    }
+  ]
+}

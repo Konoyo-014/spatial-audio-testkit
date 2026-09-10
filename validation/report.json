@@ -1,0 +1,1331 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "name": "all_wav_integrity",
+      "passed": true,
+      "detail": {
+        "wav_count": 403,
+        "bad_files": [],
+        "total_wav_bytes": 520734852,
+        "max_nonstress_peak_dbfs": -2.7079284448661136
+      }
+    },
+    {
+      "name": "hrtf_archive_hash",
+      "passed": true,
+      "detail": {
+        "grid_directions": 710,
+        "ir_samples": 140,
+        "sample_rate_hz": 48000
+      }
+    },
+    {
+      "name": "foa_reconstructed_from_stems",
+      "passed": true,
+      "detail": {
+        "max_sample_error": 1.189764549961933e-07,
+        "limit": 1.21e-07
+      }
+    },
+    {
+      "name": "stereo_reconstructed_from_stems",
+      "passed": true,
+      "detail": {
+        "max_sample_error": 1.1897645771233659e-07,
+        "limit": 1.21e-07
+      }
+    },
+    {
+      "name": "binaural_reconstructed_from_stems_and_hrtf",
+      "passed": true,
+      "detail": {
+        "max_sample_error": 1.1897643465048902e-07,
+        "limit": 1.21e-07
+      }
+    },
+    {
+      "name": "paired_lengths",
+      "passed": true,
+      "detail": {
+        "bad_scenes": []
+      }
+    },
+    {
+      "name": "single_source_foa_direction",
+      "passed": true,
+      "detail": {
+        "scene_count": 55,
+        "max_error_deg": 8.537736462515939e-07
+      }
+    },
+    {
+      "name": "binaural_grid_coverage",
+      "passed": true,
+      "detail": {
+        "max_control_grid_error_deg": 4.9875000000000185,
+        "lowest_elevation_deg": -40.0
+      }
+    },
+    {
+      "name": "no_binaural_nadir_substitution",
+      "passed": true,
+      "detail": "正下方仅提供 FOA"
+    },
+    {
+      "name": "normalization_roundtrip",
+      "passed": true,
+      "detail": {
+        "n3d_error": 1.1887828398407518e-07,
+        "fuma_error": 1.682577698974841e-07
+      }
+    },
+    {
+      "name": "yaw_rotation",
+      "passed": true,
+      "detail": "主动 +90°：X→Y，Y→−X，W/Z 不变"
+    },
+    {
+      "name": "left_right_mirror",
+      "passed": true,
+      "detail": "仅 Y 反号"
+    },
+    {
+      "name": "negative_controls_are_detectable",
+      "passed": true,
+      "detail": {
+        "swap_error": 0.05408346652984619,
+        "unconverted_n3d_error": 0.09367525577545166,
+        "channel_delay_error": 0.08897733688354492
+      }
+    },
+    {
+      "name": "stereo_antiphase_downmix",
+      "passed": true,
+      "detail": {
+        "max_mono_residual": 5.960464477539063e-08
+      }
+    },
+    {
+      "name": "analytic_itd_sign_and_samples",
+      "passed": true,
+      "detail": [
+        {
+          "path": "audio/diagnostics/binaural/analytic_itd_-24samples.wav",
+          "expected": -24,
+          "measured": -24
+        },
+        {
+          "path": "audio/diagnostics/binaural/analytic_itd_-12samples.wav",
+          "expected": -12,
+          "measured": -12
+        },
+        {
+          "path": "audio/diagnostics/binaural/analytic_itd_+12samples.wav",
+          "expected": 12,
+          "measured": 12
+        },
+        {
+          "path": "audio/diagnostics/binaural/analytic_itd_+24samples.wav",
+          "expected": 24,
+          "measured": 24
+        }
+      ]
+    },
+    {
+      "name": "analytic_ild_sign_and_db",
+      "passed": true,
+      "detail": [
+        {
+          "path": "audio/diagnostics/binaural/analytic_ild_-12db.wav",
+          "expected": -12,
+          "measured": -12.000000045125063
+        },
+        {
+          "path": "audio/diagnostics/binaural/analytic_ild_-6db.wav",
+          "expected": -6,
+          "measured": -6.000000046868034
+        },
+        {
+          "path": "audio/diagnostics/binaural/analytic_ild_+6db.wav",
+          "expected": 6,
+          "measured": 6.000000046868034
+        },
+        {
+          "path": "audio/diagnostics/binaural/analytic_ild_+12db.wav",
+          "expected": 12,
+          "measured": 12.000000045125063
+        }
+      ]
+    },
+    {
+      "name": "measured_hrtf_left_right_orientation",
+      "passed": true,
+      "detail": {
+        "position_deg": [
+          90.0,
+          0.0
+        ],
+        "peak_samples_L_R": [
+          6,
+          46
+        ],
+        "energy_L_R": [
+          2.3735822219491567,
+          0.09964556987500263
+        ]
+      }
+    },
+    {
+      "name": "measured_hrtf_frontal_symmetry",
+      "passed": true,
+      "detail": "KEMAR compact 的双耳为对称构造"
+    },
+    {
+      "name": "exact_digital_silence",
+      "passed": true,
+      "detail": {
+        "scene_id": "s0080"
+      }
+    },
+    {
+      "name": "impulse_event_samples",
+      "passed": true,
+      "detail": {
+        "expected": [
+          24000,
+          48000,
+          84000,
+          120000
+        ],
+        "actual": [
+          24000,
+          48000,
+          84000,
+          120000
+        ]
+      }
+    },
+    {
+      "name": "level_ratios_preserved",
+      "passed": true,
+      "detail": {
+        "error_db": [
+          0.0,
+          1.1602305249880374e-07,
+          -2.77925618519248e-06,
+          6.69044078804859e-05
+        ]
+      }
+    },
+    {
+      "name": "interference_source_energy_ratios",
+      "passed": true,
+      "detail": [
+        {
+          "scene_id": "s0060",
+          "requested_db": -10,
+          "measured_db": -9.984724549464385
+        },
+        {
+          "scene_id": "s0061",
+          "requested_db": 0,
+          "measured_db": 0.015275462552767238
+        },
+        {
+          "scene_id": "s0062",
+          "requested_db": 10,
+          "measured_db": 10.01527550313886
+        }
+      ]
+    },
+    {
+      "name": "sample_rate_compatibility",
+      "passed": true,
+      "detail": [
+        {
+          "path": "audio/compatibility/44100_PCM_24/foa/s0013.wav",
+          "error": 1.1897623757722853e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/foa/s0013.wav",
+          "error": 3.0516878485456434e-05,
+          "limit": 3.06e-05
+        },
+        {
+          "path": "audio/compatibility/44100_PCM_24/stereo/s0013.wav",
+          "error": 1.1897579687766835e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/stereo/s0013.wav",
+          "error": 3.0516536127778854e-05,
+          "limit": 3.06e-05
+        },
+        {
+          "path": "audio/compatibility/44100_PCM_24/binaural/s0013.wav",
+          "error": 1.1897640910668583e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/binaural/s0013.wav",
+          "error": 3.0517028111520794e-05,
+          "limit": 3.06e-05
+        },
+        {
+          "path": "audio/compatibility/44100_PCM_24/foa/s0039.wav",
+          "error": 1.1897623757722853e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/foa/s0039.wav",
+          "error": 3.0517182530412432e-05,
+          "limit": 3.06e-05
+        },
+        {
+          "path": "audio/compatibility/44100_PCM_24/stereo/s0039.wav",
+          "error": 1.1897560214108038e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/stereo/s0039.wav",
+          "error": 3.0517329264081118e-05,
+          "limit": 3.06e-05
+        },
+        {
+          "path": "audio/compatibility/44100_PCM_24/binaural/s0039.wav",
+          "error": 1.1897606483346479e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/binaural/s0039.wav",
+          "error": 3.0517291476622667e-05,
+          "limit": 3.06e-05
+        },
+        {
+          "path": "audio/compatibility/44100_PCM_24/foa/s0048.wav",
+          "error": 1.1897633212486214e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/foa/s0048.wav",
+          "error": 3.0517339320988712e-05,
+          "limit": 3.06e-05
+        },
+        {
+          "path": "audio/compatibility/44100_PCM_24/stereo/s0048.wav",
+          "error": 1.1897626062476463e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/stereo/s0048.wav",
+          "error": 3.0517289209011644e-05,
+          "limit": 3.06e-05
+        },
+        {
+          "path": "audio/compatibility/44100_PCM_24/binaural/s0048.wav",
+          "error": 1.1897644208030966e-07,
+          "limit": 1.21e-07
+        },
+        {
+          "path": "audio/compatibility/16000_PCM_16/binaural/s0048.wav",
+          "error": 3.05172709771373e-05,
+          "limit": 3.06e-05
+        }
+      ]
+    },
+    {
+      "name": "reference_timeline",
+      "passed": true,
+      "detail": {
+        "frame_count": 3130,
+        "step_s": 0.1
+      }
+    },
+    {
+      "name": "model_input_manifest",
+      "passed": true,
+      "detail": {
+        "input_files": 238,
+        "contains_direction_labels": false
+      }
+    }
+  ],
+  "scene_count": 80,
+  "wav_count": 403,
+  "wav_bytes": 520734852,
+  "geometry": [
+    {
+      "id": "s0001",
+      "error_deg": 0.0,
+      "azimuth_deg": -180,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0002",
+      "error_deg": 0.0,
+      "azimuth_deg": -165,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0003",
+      "error_deg": 0.0,
+      "azimuth_deg": -150,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0004",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": -135,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0005",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": -120,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0006",
+      "error_deg": 0.0,
+      "azimuth_deg": -105,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0007",
+      "error_deg": 0.0,
+      "azimuth_deg": -90,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0008",
+      "error_deg": 0.0,
+      "azimuth_deg": -75,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0009",
+      "error_deg": 0.0,
+      "azimuth_deg": -60,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0010",
+      "error_deg": 0.0,
+      "azimuth_deg": -45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0011",
+      "error_deg": 0.0,
+      "azimuth_deg": -30,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0012",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": -15,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0013",
+      "error_deg": 0.0,
+      "azimuth_deg": 0,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0014",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": 15,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0015",
+      "error_deg": 0.0,
+      "azimuth_deg": 30,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0016",
+      "error_deg": 0.0,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0017",
+      "error_deg": 0.0,
+      "azimuth_deg": 60,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0018",
+      "error_deg": 0.0,
+      "azimuth_deg": 75,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0019",
+      "error_deg": 0.0,
+      "azimuth_deg": 90,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0020",
+      "error_deg": 0.0,
+      "azimuth_deg": 105,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0021",
+      "error_deg": 0.0,
+      "azimuth_deg": 120,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0022",
+      "error_deg": 0.0,
+      "azimuth_deg": 135,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0023",
+      "error_deg": 0.0,
+      "azimuth_deg": 150,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0024",
+      "error_deg": 0.0,
+      "azimuth_deg": 165,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0025",
+      "error_deg": 0.0,
+      "azimuth_deg": 0,
+      "elevation_deg": -30
+    },
+    {
+      "id": "s0026",
+      "error_deg": 0.0,
+      "azimuth_deg": 90,
+      "elevation_deg": -30
+    },
+    {
+      "id": "s0027",
+      "error_deg": 0.0,
+      "azimuth_deg": 180,
+      "elevation_deg": -30
+    },
+    {
+      "id": "s0028",
+      "error_deg": 0.0,
+      "azimuth_deg": -90,
+      "elevation_deg": -30
+    },
+    {
+      "id": "s0029",
+      "error_deg": 0.0,
+      "azimuth_deg": 0,
+      "elevation_deg": 30
+    },
+    {
+      "id": "s0030",
+      "error_deg": 0.0,
+      "azimuth_deg": 90,
+      "elevation_deg": 30
+    },
+    {
+      "id": "s0031",
+      "error_deg": 0.0,
+      "azimuth_deg": 180,
+      "elevation_deg": 30
+    },
+    {
+      "id": "s0032",
+      "error_deg": 0.0,
+      "azimuth_deg": -90,
+      "elevation_deg": 30
+    },
+    {
+      "id": "s0033",
+      "error_deg": 0.0,
+      "azimuth_deg": 0,
+      "elevation_deg": 60
+    },
+    {
+      "id": "s0034",
+      "error_deg": 0.0,
+      "azimuth_deg": 90,
+      "elevation_deg": 60
+    },
+    {
+      "id": "s0035",
+      "error_deg": 0.0,
+      "azimuth_deg": 180,
+      "elevation_deg": 60
+    },
+    {
+      "id": "s0036",
+      "error_deg": 0.0,
+      "azimuth_deg": -90,
+      "elevation_deg": 60
+    },
+    {
+      "id": "s0037",
+      "error_deg": 0.0,
+      "azimuth_deg": 0,
+      "elevation_deg": 90
+    },
+    {
+      "id": "s0038",
+      "error_deg": 0.0,
+      "azimuth_deg": 0,
+      "elevation_deg": -90
+    },
+    {
+      "id": "s0039",
+      "error_deg": 0.0,
+      "azimuth_deg": 30,
+      "elevation_deg": 20
+    },
+    {
+      "id": "s0040",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0041",
+      "error_deg": 0.0,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0042",
+      "error_deg": 0.0,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0043",
+      "error_deg": 0.0,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0044",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0045",
+      "error_deg": 0.0,
+      "azimuth_deg": 30,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0046",
+      "error_deg": 0.0,
+      "azimuth_deg": -30,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0047",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": 60,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0071",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0072",
+      "error_deg": 0.0,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0073",
+      "error_deg": 0.0,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0074",
+      "error_deg": 8.537736462515939e-07,
+      "azimuth_deg": 45,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0075",
+      "error_deg": 0.0,
+      "azimuth_deg": 30,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0076",
+      "error_deg": 0.0,
+      "azimuth_deg": 30,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0077",
+      "error_deg": 0.0,
+      "azimuth_deg": 30,
+      "elevation_deg": 0
+    },
+    {
+      "id": "s0079",
+      "error_deg": 0.0,
+      "azimuth_deg": -45,
+      "elevation_deg": 0
+    }
+  ],
+  "scene_reconstruction": [
+    {
+      "scene_id": "s0001",
+      "max_sample_error": {
+        "foa": 1.9256540115520077e-17,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.1897554880310399e-07
+      }
+    },
+    {
+      "scene_id": "s0002",
+      "max_sample_error": {
+        "foa": 1.1897616371270292e-07,
+        "stereo": 1.1897617180345321e-07,
+        "binaural": 1.1897590678107417e-07
+      }
+    },
+    {
+      "scene_id": "s0003",
+      "max_sample_error": {
+        "foa": 1.1897582764125447e-07,
+        "stereo": 1.189739027088188e-07,
+        "binaural": 1.1897619704021034e-07
+      }
+    },
+    {
+      "scene_id": "s0004",
+      "max_sample_error": {
+        "foa": 1.1897636289538716e-07,
+        "stereo": 1.1897623862153206e-07,
+        "binaural": 1.1897616417413936e-07
+      }
+    },
+    {
+      "scene_id": "s0005",
+      "max_sample_error": {
+        "foa": 1.1897582764125447e-07,
+        "stereo": 1.1897596295055296e-07,
+        "binaural": 1.1897635182936926e-07
+      }
+    },
+    {
+      "scene_id": "s0006",
+      "max_sample_error": {
+        "foa": 1.189761637109682e-07,
+        "stereo": 1.1897550873662954e-07,
+        "binaural": 1.1897582158403378e-07
+      }
+    },
+    {
+      "scene_id": "s0007",
+      "max_sample_error": {
+        "foa": 9.628270057760039e-18,
+        "stereo": 0.0,
+        "binaural": 1.1897620526453434e-07
+      }
+    },
+    {
+      "scene_id": "s0008",
+      "max_sample_error": {
+        "foa": 1.189761637109682e-07,
+        "stereo": 1.1897550873662954e-07,
+        "binaural": 1.1897627235149533e-07
+      }
+    },
+    {
+      "scene_id": "s0009",
+      "max_sample_error": {
+        "foa": 1.1897582764472392e-07,
+        "stereo": 1.1897596295055296e-07,
+        "binaural": 1.1897632925736423e-07
+      }
+    },
+    {
+      "scene_id": "s0010",
+      "max_sample_error": {
+        "foa": 1.1897636289538716e-07,
+        "stereo": 1.1897623862847095e-07,
+        "binaural": 1.1897581991132666e-07
+      }
+    },
+    {
+      "scene_id": "s0011",
+      "max_sample_error": {
+        "foa": 1.1897390271228825e-07,
+        "stereo": 1.189739027088188e-07,
+        "binaural": 1.189763476766581e-07
+      }
+    },
+    {
+      "scene_id": "s0012",
+      "max_sample_error": {
+        "foa": 1.1897596295055296e-07,
+        "stereo": 1.189761718103921e-07,
+        "binaural": 1.1897592198419071e-07
+      }
+    },
+    {
+      "scene_id": "s0013",
+      "max_sample_error": {
+        "foa": 0.0,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.1897623267143054e-07
+      }
+    },
+    {
+      "scene_id": "s0014",
+      "max_sample_error": {
+        "foa": 1.1897596295055296e-07,
+        "stereo": 1.189761718103921e-07,
+        "binaural": 1.1897592198419071e-07
+      }
+    },
+    {
+      "scene_id": "s0015",
+      "max_sample_error": {
+        "foa": 1.1897390271228825e-07,
+        "stereo": 1.189739027088188e-07,
+        "binaural": 1.189763476766581e-07
+      }
+    },
+    {
+      "scene_id": "s0016",
+      "max_sample_error": {
+        "foa": 1.1897621008186143e-07,
+        "stereo": 1.1897623862847095e-07,
+        "binaural": 1.1897581991132666e-07
+      }
+    },
+    {
+      "scene_id": "s0017",
+      "max_sample_error": {
+        "foa": 1.189739027088188e-07,
+        "stereo": 1.1897596295055296e-07,
+        "binaural": 1.1897632925736423e-07
+      }
+    },
+    {
+      "scene_id": "s0018",
+      "max_sample_error": {
+        "foa": 1.1897596295055296e-07,
+        "stereo": 1.1897550873662954e-07,
+        "binaural": 1.1897627235149533e-07
+      }
+    },
+    {
+      "scene_id": "s0019",
+      "max_sample_error": {
+        "foa": 9.628270057760039e-18,
+        "stereo": 0.0,
+        "binaural": 1.1897620526453434e-07
+      }
+    },
+    {
+      "scene_id": "s0020",
+      "max_sample_error": {
+        "foa": 1.1897596295055296e-07,
+        "stereo": 1.1897550873662954e-07,
+        "binaural": 1.1897582158403378e-07
+      }
+    },
+    {
+      "scene_id": "s0021",
+      "max_sample_error": {
+        "foa": 1.1897390271228825e-07,
+        "stereo": 1.1897596295055296e-07,
+        "binaural": 1.1897635182936926e-07
+      }
+    },
+    {
+      "scene_id": "s0022",
+      "max_sample_error": {
+        "foa": 1.1897636289538716e-07,
+        "stereo": 1.1897623862153206e-07,
+        "binaural": 1.1897616417413936e-07
+      }
+    },
+    {
+      "scene_id": "s0023",
+      "max_sample_error": {
+        "foa": 1.1897582764125447e-07,
+        "stereo": 1.189739027088188e-07,
+        "binaural": 1.1897619704021034e-07
+      }
+    },
+    {
+      "scene_id": "s0024",
+      "max_sample_error": {
+        "foa": 1.1897616371270292e-07,
+        "stereo": 1.1897617180345321e-07,
+        "binaural": 1.1897590678107417e-07
+      }
+    },
+    {
+      "scene_id": "s0025",
+      "max_sample_error": {
+        "foa": 1.1897390271228825e-07,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.1897595608711953e-07
+      }
+    },
+    {
+      "scene_id": "s0026",
+      "max_sample_error": {
+        "foa": 1.1897390271228825e-07,
+        "stereo": 1.1897596295055296e-07,
+        "binaural": 1.1897570469099339e-07
+      }
+    },
+    {
+      "scene_id": "s0027",
+      "max_sample_error": {
+        "foa": 1.1897582764125447e-07,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.1897611999767133e-07
+      }
+    },
+    {
+      "scene_id": "s0028",
+      "max_sample_error": {
+        "foa": 1.1897582764125447e-07,
+        "stereo": 1.1897596295055296e-07,
+        "binaural": 1.1897570469099339e-07
+      }
+    },
+    {
+      "scene_id": "s0029",
+      "max_sample_error": {
+        "foa": 1.1897390271228825e-07,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.1897532800793365e-07
+      }
+    },
+    {
+      "scene_id": "s0030",
+      "max_sample_error": {
+        "foa": 1.1897390271228825e-07,
+        "stereo": 1.1897596295055296e-07,
+        "binaural": 1.1897618737433113e-07
+      }
+    },
+    {
+      "scene_id": "s0031",
+      "max_sample_error": {
+        "foa": 1.1897582764125447e-07,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.1897633851211398e-07
+      }
+    },
+    {
+      "scene_id": "s0032",
+      "max_sample_error": {
+        "foa": 1.1897582764125447e-07,
+        "stereo": 1.1897596295055296e-07,
+        "binaural": 1.1897618737433113e-07
+      }
+    },
+    {
+      "scene_id": "s0033",
+      "max_sample_error": {
+        "foa": 1.189739027088188e-07,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.1897447899610059e-07
+      }
+    },
+    {
+      "scene_id": "s0034",
+      "max_sample_error": {
+        "foa": 1.189739027088188e-07,
+        "stereo": 1.189739027088188e-07,
+        "binaural": 1.189759587308381e-07
+      }
+    },
+    {
+      "scene_id": "s0035",
+      "max_sample_error": {
+        "foa": 1.189739027088188e-07,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.1897615421335717e-07
+      }
+    },
+    {
+      "scene_id": "s0036",
+      "max_sample_error": {
+        "foa": 1.189739027088188e-07,
+        "stereo": 1.189739027088188e-07,
+        "binaural": 1.189759587308381e-07
+      }
+    },
+    {
+      "scene_id": "s0037",
+      "max_sample_error": {
+        "foa": 9.628270057760039e-18,
+        "stereo": 1.1897621008186143e-07,
+        "binaural": 1.189752771284941e-07
+      }
+    },
+    {
+      "scene_id": "s0038",
+      "max_sample_error": {
+        "foa": 9.628270057760039e-18
+      }
+    },
+    {
+      "scene_id": "s0039",
+      "max_sample_error": {
+        "foa": 1.1897603458682626e-07,
+        "stereo": 1.1897553041633618e-07,
+        "binaural": 1.1897544716435449e-07
+      }
+    },
+    {
+      "scene_id": "s0040",
+      "max_sample_error": {
+        "foa": 1.1897206241701097e-07,
+        "stereo": 1.1891920116691157e-07,
+        "binaural": 1.1895689602976767e-07
+      }
+    },
+    {
+      "scene_id": "s0041",
+      "max_sample_error": {
+        "foa": 1.1889864864195188e-07,
+        "stereo": 1.1895124992639117e-07,
+        "binaural": 1.1897393524399127e-07
+      }
+    },
+    {
+      "scene_id": "s0042",
+      "max_sample_error": {
+        "foa": 1.1897243133859262e-07,
+        "stereo": 1.1896042474701662e-07,
+        "binaural": 1.1894171758194025e-07
+      }
+    },
+    {
+      "scene_id": "s0043",
+      "max_sample_error": {
+        "foa": 1.189482569663447e-07,
+        "stereo": 1.1888083849970199e-07,
+        "binaural": 1.1893796988265981e-07
+      }
+    },
+    {
+      "scene_id": "s0044",
+      "max_sample_error": {
+        "foa": 1.1895885535309625e-07,
+        "stereo": 1.189649447477098e-07,
+        "binaural": 1.1894777927604464e-07
+      }
+    },
+    {
+      "scene_id": "s0045",
+      "max_sample_error": {
+        "foa": 1.1897625202053619e-07,
+        "stereo": 1.1897625202400564e-07,
+        "binaural": 1.1897632084395537e-07
+      }
+    },
+    {
+      "scene_id": "s0046",
+      "max_sample_error": {
+        "foa": 1.1897625202053619e-07,
+        "stereo": 1.1897625202400564e-07,
+        "binaural": 1.189754599492665e-07
+      }
+    },
+    {
+      "scene_id": "s0047",
+      "max_sample_error": {
+        "foa": 1.1897432708810052e-07,
+        "stereo": 1.1897603230826698e-07,
+        "binaural": 1.1897586867874038e-07
+      }
+    },
+    {
+      "scene_id": "s0048",
+      "max_sample_error": {
+        "foa": 1.1897606900243898e-07,
+        "stereo": 1.1897643313954487e-07,
+        "binaural": 1.1897638345359507e-07
+      }
+    },
+    {
+      "scene_id": "s0049",
+      "max_sample_error": {
+        "foa": 1.1897627433363374e-07,
+        "stereo": 1.1897643313954487e-07,
+        "binaural": 1.1897638345359507e-07
+      }
+    },
+    {
+      "scene_id": "s0050",
+      "max_sample_error": {
+        "foa": 1.1897632386237422e-07,
+        "stereo": 1.1897595226031954e-07,
+        "binaural": 1.1897635108365501e-07
+      }
+    },
+    {
+      "scene_id": "s0051",
+      "max_sample_error": {
+        "foa": 1.1897626110701776e-07,
+        "stereo": 1.1897642619718152e-07,
+        "binaural": 1.1897621139678183e-07
+      }
+    },
+    {
+      "scene_id": "s0052",
+      "max_sample_error": {
+        "foa": 1.1897605989275549e-07,
+        "stereo": 1.1897642711658496e-07,
+        "binaural": 1.1897625043152948e-07
+      }
+    },
+    {
+      "scene_id": "s0053",
+      "max_sample_error": {
+        "foa": 1.189764549961933e-07,
+        "stereo": 1.1897638385431619e-07,
+        "binaural": 1.1897639877467281e-07
+      }
+    },
+    {
+      "scene_id": "s0054",
+      "max_sample_error": {
+        "foa": 1.1897617781253533e-07,
+        "stereo": 1.1897623626577758e-07,
+        "binaural": 1.1897610070060738e-07
+      }
+    },
+    {
+      "scene_id": "s0055",
+      "max_sample_error": {
+        "foa": 1.1897644079661429e-07,
+        "stereo": 1.1897644639630167e-07,
+        "binaural": 1.1897617807968275e-07
+      }
+    },
+    {
+      "scene_id": "s0056",
+      "max_sample_error": {
+        "foa": 1.1897631133073183e-07,
+        "stereo": 1.189764024019796e-07,
+        "binaural": 1.1897583282460822e-07
+      }
+    },
+    {
+      "scene_id": "s0057",
+      "max_sample_error": {
+        "foa": 1.1897609327946035e-07,
+        "stereo": 1.1897633579033284e-07,
+        "binaural": 1.1897624474510593e-07
+      }
+    },
+    {
+      "scene_id": "s0058",
+      "max_sample_error": {
+        "foa": 1.1897634893086317e-07,
+        "stereo": 1.1897615288802843e-07,
+        "binaural": 1.1897608309663354e-07
+      }
+    },
+    {
+      "scene_id": "s0059",
+      "max_sample_error": {
+        "foa": 1.1897644897670284e-07,
+        "stereo": 1.1897644897410076e-07,
+        "binaural": 1.1897588479171939e-07
+      }
+    },
+    {
+      "scene_id": "s0060",
+      "max_sample_error": {
+        "foa": 1.1897635775193205e-07,
+        "stereo": 1.1897634477620045e-07,
+        "binaural": 1.1897642992336754e-07
+      }
+    },
+    {
+      "scene_id": "s0061",
+      "max_sample_error": {
+        "foa": 1.189755909625223e-07,
+        "stereo": 1.1897633337212832e-07,
+        "binaural": 1.1897579843545003e-07
+      }
+    },
+    {
+      "scene_id": "s0062",
+      "max_sample_error": {
+        "foa": 1.1897636877870182e-07,
+        "stereo": 1.1897645452174643e-07,
+        "binaural": 1.1897618754086459e-07
+      }
+    },
+    {
+      "scene_id": "s0063",
+      "max_sample_error": {
+        "foa": 1.1897644897496812e-07,
+        "stereo": 1.1897645771233659e-07,
+        "binaural": 1.1897622195864571e-07
+      }
+    },
+    {
+      "scene_id": "s0064",
+      "max_sample_error": {
+        "foa": 1.18974721005638e-07,
+        "stereo": 1.1897472099176021e-07,
+        "binaural": 1.1897643465048902e-07
+      }
+    },
+    {
+      "scene_id": "s0065",
+      "max_sample_error": {
+        "foa": 1.9344075284736324e-17,
+        "stereo": 0.0,
+        "binaural": 1.1897636323365823e-07
+      }
+    },
+    {
+      "scene_id": "s0066",
+      "max_sample_error": {
+        "foa": 7.299463744970655e-24,
+        "stereo": 0.0,
+        "binaural": 1.1897587023912415e-07
+      }
+    },
+    {
+      "scene_id": "s0067",
+      "max_sample_error": {
+        "foa": 1.1897639814323346e-07,
+        "stereo": 1.189764435981927e-07,
+        "binaural": 1.1897609825811672e-07
+      }
+    },
+    {
+      "scene_id": "s0068",
+      "max_sample_error": {
+        "foa": 1.189760879261037e-07,
+        "stereo": 1.1897625455670191e-07,
+        "binaural": 1.1897643263647506e-07
+      }
+    },
+    {
+      "scene_id": "s0069",
+      "max_sample_error": {
+        "foa": 1.1897617650802328e-07,
+        "stereo": 1.1897606723432208e-07,
+        "binaural": 1.189761622919644e-07
+      }
+    },
+    {
+      "scene_id": "s0070",
+      "max_sample_error": {
+        "foa": 1.189763920717013e-07,
+        "stereo": 1.189760943619278e-07,
+        "binaural": 1.1897626047557841e-07
+      }
+    },
+    {
+      "scene_id": "s0071",
+      "max_sample_error": {
+        "foa": 1.1897605727007043e-07,
+        "stereo": 1.1897592683447755e-07,
+        "binaural": 1.1897638279440015e-07
+      }
+    },
+    {
+      "scene_id": "s0072",
+      "max_sample_error": {
+        "foa": 1.1897547223674657e-07,
+        "stereo": 1.1897622195257418e-07,
+        "binaural": 1.1897625708451928e-07
+      }
+    },
+    {
+      "scene_id": "s0073",
+      "max_sample_error": {
+        "foa": 1.1897243133859262e-07,
+        "stereo": 1.1897406676702877e-07,
+        "binaural": 1.1897586693889405e-07
+      }
+    },
+    {
+      "scene_id": "s0074",
+      "max_sample_error": {
+        "foa": 1.189598988231382e-07,
+        "stereo": 1.1897406676702877e-07,
+        "binaural": 1.1897636081099154e-07
+      }
+    },
+    {
+      "scene_id": "s0075",
+      "max_sample_error": {
+        "foa": 1.1897605506350217e-07,
+        "stereo": 1.1897605507044107e-07,
+        "binaural": 1.189762743152023e-07
+      }
+    },
+    {
+      "scene_id": "s0076",
+      "max_sample_error": {
+        "foa": 1.1897455451208294e-07,
+        "stereo": 1.1897455451208294e-07,
+        "binaural": 1.1897640147910671e-07
+      }
+    },
+    {
+      "scene_id": "s0077",
+      "max_sample_error": {
+        "foa": 1.1897644897583548e-07,
+        "stereo": 1.1897644897496812e-07,
+        "binaural": 1.1897578654717321e-07
+      }
+    },
+    {
+      "scene_id": "s0078",
+      "max_sample_error": {
+        "foa": 8.572526718095823e-18,
+        "stereo": 0.0,
+        "binaural": 1.1897324552184035e-07
+      }
+    },
+    {
+      "scene_id": "s0079",
+      "max_sample_error": {
+        "foa": 1.189761467818018e-07,
+        "stereo": 1.189734987108032e-07,
+        "binaural": 1.1897610888850219e-07
+      }
+    },
+    {
+      "scene_id": "s0080",
+      "max_sample_error": {
+        "foa": 0.0,
+        "stereo": 0.0,
+        "binaural": 0.0
+      }
+    }
+  ],
+  "scope": "File integrity and numerical signal properties; no learned model or human listening result."
+}

@@ -1,0 +1,124 @@
+{
+  "status": "passed",
+  "scope": "scoring program behavior, not a learned model result",
+  "checks": [
+    {
+      "name": "perfect_reference",
+      "passed": true,
+      "return_code": 0,
+      "score": {
+        "status": "evaluated",
+        "reference_frames": 2910,
+        "scene_count": 73,
+        "threshold_deg": 20.0,
+        "true_positive": 3029,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "matched_mean_error_deg": 1.4375191798887848e-07,
+        "matched_median_error_deg": 0.0,
+        "matched_p95_error_deg": 8.537736462515939e-07,
+        "note": "Assignment ignores identity. Angular error excludes unmatched sources; read it together with FP/FN/F1. Not a SELD score. Align algorithm latency before writing predictions. Nominal direction labels; binaural uses a finite, crossfaded HRTF grid. Reflections score direct sources only."
+      },
+      "expected_rejection": null
+    },
+    {
+      "name": "perfect_reference_score",
+      "passed": true
+    },
+    {
+      "name": "source_order_permuted",
+      "passed": true,
+      "return_code": 0,
+      "score": {
+        "status": "evaluated",
+        "reference_frames": 2910,
+        "scene_count": 73,
+        "threshold_deg": 20.0,
+        "true_positive": 3029,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "matched_mean_error_deg": 1.4375191798887848e-07,
+        "matched_median_error_deg": 0.0,
+        "matched_p95_error_deg": 8.537736462515939e-07,
+        "note": "Assignment ignores identity. Angular error excludes unmatched sources; read it together with FP/FN/F1. Not a SELD score. Align algorithm latency before writing predictions. Nominal direction labels; binaural uses a finite, crossfaded HRTF grid. Reflections score direct sources only."
+      },
+      "expected_rejection": null
+    },
+    {
+      "name": "permutation_invariance",
+      "passed": true
+    },
+    {
+      "name": "missing_frame_rejected",
+      "passed": true,
+      "return_code": 2,
+      "score": {},
+      "expected_rejection": "usage: evaluate.py [-h] [--root ROOT] [--output OUTPUT]\n                   [--scene-ids SCENE_IDS] [--threshold-deg THRESHOLD_DEG]\n                   predictions\nevaluate.py: error: 1 frames absent. Emit sources: [] for a no-source prediction. Use --scene-ids for a subset.\n"
+    },
+    {
+      "name": "duplicate_frame_rejected",
+      "passed": true,
+      "return_code": 2,
+      "score": {},
+      "expected_rejection": "usage: evaluate.py [-h] [--root ROOT] [--output OUTPUT]\n                   [--scene-ids SCENE_IDS] [--threshold-deg THRESHOLD_DEG]\n                   predictions\nevaluate.py: error: Duplicate prediction frame: ('s0001', 0.0)\n"
+    },
+    {
+      "name": "all_empty_predictions",
+      "passed": true,
+      "return_code": 0,
+      "score": {
+        "status": "evaluated",
+        "reference_frames": 2910,
+        "scene_count": 73,
+        "threshold_deg": 20.0,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 3029,
+        "precision": null,
+        "recall": 0.0,
+        "f1": 0.0,
+        "matched_mean_error_deg": null,
+        "matched_median_error_deg": null,
+        "matched_p95_error_deg": null,
+        "note": "Assignment ignores identity. Angular error excludes unmatched sources; read it together with FP/FN/F1. Not a SELD score. Align algorithm latency before writing predictions. Nominal direction labels; binaural uses a finite, crossfaded HRTF grid. Reflections score direct sources only."
+      },
+      "expected_rejection": null
+    },
+    {
+      "name": "all_empty_is_not_good_score",
+      "passed": true
+    },
+    {
+      "name": "rotated90",
+      "passed": true,
+      "return_code": 0,
+      "score": {
+        "status": "evaluated",
+        "reference_frames": 30,
+        "scene_count": 1,
+        "threshold_deg": 20.0,
+        "true_positive": 0,
+        "false_positive": 25,
+        "false_negative": 25,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "matched_mean_error_deg": 90.0,
+        "matched_median_error_deg": 90.0,
+        "matched_p95_error_deg": 90.0,
+        "note": "Assignment ignores identity. Angular error excludes unmatched sources; read it together with FP/FN/F1. Not a SELD score. Align algorithm latency before writing predictions. Nominal direction labels; binaural uses a finite, crossfaded HRTF grid. Reflections score direct sources only."
+      },
+      "expected_rejection": null
+    },
+    {
+      "name": "wrong_direction_penalized",
+      "passed": true
+    }
+  ]
+}

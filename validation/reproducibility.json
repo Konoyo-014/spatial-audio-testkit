@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "wav_count": 403,
+  "identical_wav_hashes": 403,
+  "seed": 20260910,
+  "environment": {
+    "python": "3.9.6",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "soundfile": "0.13.1",
+    "libsndfile": "1.2.2"
+  },
+  "method": "Generate again in a separate directory with the same seed and environment, then compare every WAV SHA-256."
+}

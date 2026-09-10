@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "scope": "render_mono.py with saved source s0039 at azimuth 30, elevation 20",
+  "maximum_saved_sample_difference": {
+    "foa": 0.0,
+    "stereo": 0.0,
+    "binaural": 0.0
+  },
+  "motion_scene_s0048_maximum_sample_difference": {
+    "foa": 0.0,
+    "stereo": 0.0,
+    "binaural": 0.0
+  }
+}
